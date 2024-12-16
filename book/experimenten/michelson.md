@@ -1,46 +1,12 @@
-# Michelson Interferometer <br> (the bombproof)  
-``` {figure} media/image1.jpeg
----
-width:10
-name: opstelling Michelson
-align: center
----
-Foto van de opstelling
+# Michelson Interferometer <br> (de bom-tester)  
+```{figure} ./media/image1.jpeg
+    ---
+    width:5
+    name: opstelling Michelson
+    align: center 
+    ---
+Foto van de Michelson Interferometer opstelling
 ```
-
-[Experiment Start [1](#experiment-start)](#experiment-start)
-
-[Inleiding [1](#inleiding)](#inleiding)
-
-[Doel [1](#doel)](#doel)
-
-[Theorie [1](#theorie)](#theorie)
-
-[Materiaal [1](#materiaal)](#materiaal)
-
-[Uitvoering [2](#uitvoering)](#uitvoering)
-
-[Veiligheid [3](#veiligheid)](#veiligheid)
-
-[De uitvoering in stappen:
-[3](#de-uitvoering-in-stappen)](#de-uitvoering-in-stappen)
-
-[Experiment 1: Lichtgolven
-[4](#experiment-1-lichtgolven)](#experiment-1-lichtgolven)
-
-[Experiment 2: Trillingen meten
-[4](#experiment-2-trillingen-meten)](#experiment-2-trillingen-meten)
-
-[Experiment 3: 4 fotonen
-[5](#experiment-3-4-fotonen)](#experiment-3-4-fotonen)
-
-[Experiment 4: Enkel foton
-[7](#experiment-4-enkel-foton)](#experiment-4-enkel-foton)
-
-[Experiment 5: De bomtester
-[8](#experiment-5-de-bomtester)](#experiment-5-de-bomtester)
-
-[De wiskunde: [9](#de-wiskunde)](#de-wiskunde)
 
 # Experiment Start
 
@@ -83,8 +49,14 @@ een ringvormig interferentie patroon.
 
 ## Materiaal
 
-<img src="./media/image2.jpeg"
-style="width:6.26042in;height:4.71875in" />
+```{figure} ./media/image2.jpeg
+    ---
+    width:5
+    name: opstelling Michelson
+    align: center 
+    ---
+ Opstelling met benoeming onderdelen
+```
 
 ## Uitvoering
 
@@ -300,9 +272,15 @@ Dus zodra er *pad informatie* bestaat stort de golffunctie van de twee
 paden in.
 
 # Experiment 5: De bomtester
+```{figure} ./media/image3.png
+    ---
+    width:10
+    name: paden
+    align: center 
+    ---
+Figuur van de Thorlabs usermanual
+```
 
-Figuur van de Thorlabs usermanual.<img src="./media/image3.png"
-style="width:2.92233in;height:2.53819in" />
 
 We kunnen een bom (of nepbom) plaatsen in één van de paden/armen. Met
 behulp van dit experiment is het mogelijk om in een aantal gevallen deze

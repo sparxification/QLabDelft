@@ -6,20 +6,20 @@ parts:
     chapters:
     - file: experimenten/overview.md
       sections: 
-      - file: experimenten: experimenten/michelson.md
-      - file: experimenten: experimenten/mach.md
-      - file: experimenten: experimenten/nv.md
-      - file: experimenten: experimenten/conductantie.md
-      - file: experimenten: experimenten/dubbelspleetkoffer.md
-      - file: experimenten: experimenten/frank.md
-      - file: experimenten: experimenten/hbt.md
-      - file: experimenten: experimenten/malus.md
-      - file: experimenten: experimenten/tunnelen.md
-      - file: experimenten: experimenten/crypto.md
-      - file: experimenten: experimenten/spectro1
-      - file: experimenten: experimenten/spectro_czerny
-      - file: experimenten: experimenten/spectro-digitaal
-      - file: experimenten: experimenten/afm
+      - file: experimenten/michelson.md
+      - file: experimenten/mach.md
+      - file: experimenten/nv.md
+      - file: experimenten/conductantie.md
+      - file: experimenten/dubbelspleetkoffer.md
+      - file: experimenten/frank.md
+      - file: experimenten/hbt.md
+      - file: experimenten/malus.md
+      - file: experimenten/tunnelen.md
+      - file: experimenten/crypto.md
+      - file: experimenten/spectro1
+      - file: experimenten/spectro_czerny
+      - file: experimenten/spectro-digitaal
+      - file: experimenten/afm
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb

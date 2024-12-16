@@ -1,6 +1,10 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom bij het handboek van QuantumLab Delft
 
 _This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Dit online boek bevat de handleidingen voor de experimenten van het QuantumLab Delft. 
+Experimenten voor studenten van de 4e t/m 6e klas van HAVO en VWO.
+
+
+

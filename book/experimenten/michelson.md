@@ -1,4 +1,12 @@
-<img src="./media/image1.jpeg" style="width:4.97516in;height:3.75in" />
+# Michelson Interferometer <br> (the bombproof)  
+``` {figure} media/image1.jpeg
+---
+width:10
+name: opstelling Michelson
+align: center
+---
+Foto van de opstelling
+```
 
 [Experiment Start [1](#experiment-start)](#experiment-start)
 

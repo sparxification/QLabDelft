@@ -98,12 +98,9 @@ gigantische stromen lopen die de draad meteen zouden doen smelten.
 Waarom smelt de draad nu niet? Bij een stroom in een dikke draad bewegen
 de elektronen niet-elastisch door het metaalrooster. In een quantum
 verklaring volstaat een klassiek (Drude) botsingmodel niet meer. Een
-uitleg met valentie- en geleidingsbanden is meer op zijn plaats. (zie
-<https://youtu.be/KGJqykotjog?si=gIStAMCYP6WFZRUu> )*
+uitleg met valentie- en geleidingsbanden is meer op zijn plaats. 
 
-<img src="./media/cimage2.jpg"
-title="Video met titel: What Are Electrons REALLY Doing In A Wire? Quantum Physics and High School Myths"
-style="width:6.07292in;height:3.52083in" />
+
 
 <div style="display: flex; justify-content: center;">
 <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -112,7 +109,7 @@ style="width:6.07292in;height:3.52083in" />
 </div>
 
 *Onregelmatigheden in het rooster vormen de barrières en zijn de oorzaak
-van warmteontwikkeling. De atomaire draad kort (veel korter dan de vrije
+van warmteontwikkeling. De atomaire draad is kort (veel korter dan de vrije
 weglengte). De warmteontwikkeling vindt wel verderop plaats, maar daar
 is de draad weer dikker en kan de warmte in de bulk van het materiaal
 worden opgenomen. Vandaar dat dit experiment gewoon bij

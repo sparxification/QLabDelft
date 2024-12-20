@@ -1,3 +1,5 @@
+# Mach Zehnder interferometer practicumhandleiding
+
 <img src="./media/685b126cb1926c247802bbca7d90981886cb4f87.jpg"
 style="width:4.25653in;height:3.20833in" alt="figuur 1" />
 

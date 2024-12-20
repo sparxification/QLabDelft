@@ -48,7 +48,7 @@ rechts ontvanger Bob.
 <img src="./media/abeimage1.jpg"
 style="width:6.26042in;height:2.81257in" />
 
-Hier is een link naar de bijlages om zo nodig te printen voor dit experiment {Download}`bijlages<./media/experiment-bijlages-to-print.pdf>`.
+Hier is een link naar de **bijlages** om zo nodig te printen voor dit experiment: {Download}`bijlages<./media/experiment-bijlages-to-print.pdf>`.
 
 ## Uitvoering
 

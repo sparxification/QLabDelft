@@ -47,18 +47,22 @@ bijvoorbeeld op een scherm of op een sensor.
 
 ### Tralie
 
+In de figuur hieronder is de
+werking van een tralie uitgebeeld. 
+<br>
 <img src="./media/simage1.png"
-style="width:3.98958in;height:4.88332in" />In de figuur hieronder is de
-werking van een tralie uitgebeeld. Hierin is:
+style="width:3.98958in;height:4.88332in" />
+<br>
+Hierin is:
 
-$`d = \,\ `$ tralieafstand
+$d =$ tralieafstand
 
-$`\lambda = \,\ `$ golflengte
+$\lambda =$ golflengte
 
-$`\theta = \ `$ hoek van buiging
+$\theta =$ hoek van buiging
 
 En wordt met 1<sup>e</sup> orde en 2<sup>e</sup> orde de maxima bedoeld
-waar constructieve interferentie optreedt door *n*$`\lambda`$ weglengte
+waar constructieve interferentie optreedt door *n*$\lambda$ weglengte
 verschil.
 
 *Door Oscar2 op de Nederlandstalige Wikipedia, CC BY-SA 3.0,
@@ -79,7 +83,7 @@ etc.
 En kan ook worden geschreven als:
 ```{math}
 :label: 1
-\sin\theta = n\,\lambda\, N\
+\sin\theta = n\cdot\lambda\cdot N
 ```
 
 Uit deze formule kan $\lambda$ worden berekend.
@@ -158,12 +162,12 @@ Bij experiment 11b is de spiegel tralie gemonteerd op een gemotoriseerd
 platform. Dit platform wordt met de Thorlabs software *Kinesis*
 aangestuurd.
 
-## Uitvoering
+## Uitvoering - Experiment 11a
 
-### <img src="./media/simage7.jpeg"
+<img src="./media/simage7.jpeg"
 style="width:2.68056in;height:2.02083in" />Experiment 11a
 
-#### Proef 1:
+### Proef 1:
 
 1.  Plaats de tralie met 600 lijnen/mm (staat op zijkant) zodanig in de
     opstelling dat het spectrum van de witte led wordt geprojecteerd op
@@ -174,12 +178,18 @@ style="width:2.68056in;height:2.02083in" />Experiment 11a
     strak, dan gaat het kapot). Als de spleetbreedte kleiner wordt,
     wordt de afbeelding donkerder. Probeer een optimum te vinden.
 
+```{figure} ./media/simage8.png
+    ---
+    width: 50%
+    name: meten
+    align: right
+    ---
+    Afbeelding van Thorlabs
+```
 3.  Meet van het midden van de spleet tot het midden van de blauwe vlek
     met de liniaal.
 
-4.  <img src="./media/simage8.png"
-    style="width:1.88606in;height:2.40161in" />Meet tevens de afstand
-    van de spleet tot tralie zo nauwkeurig mogelijk van bovenaf (maar
+4.  Meet tevens de afstand van de spleet tot tralie zo nauwkeurig mogelijk van bovenaf (maar
     raak de tralie absoluut niet aan).
 
 5.  Bereken vervolgens hoek $`\theta`$ . Bedenk dat geldt:
@@ -194,11 +204,11 @@ style="width:2.68056in;height:2.02083in" />Experiment 11a
 
 9.  Welk resultaat is nauwkeuriger?
 
-> *Afbeelding van Thorlabs*
+
 
 ZOZ
 
-#### Proef 2:
+### Proef 2:
 
 - Schroef vervolgens het groene bandpass filter voor op de witte LED.
   Zie hieronder.
@@ -208,7 +218,7 @@ style="width:3.62081in;height:2.72917in" />
 
 - Herhaal vervolgens de stappen van proef 1 voor dit filter.
 
-#### Proef 3:
+### Proef 3:
 
 De theoretische kleinst scheidende vermogen van een tralie kan worden
 berekend met:
@@ -223,18 +233,25 @@ Welke tralie is volgens de formule het “best”?
 
 ZOZ
 
-#### Proef 4:
+### Proef 4:
 
 Bij deze proef gaan we de brekingsindex bepalen van het prisma, dat
 gemaakt is van kroonglas.
 
-1.  <img src="./media/simage10.jpeg" style="width:3.44028in;height:2.59444in"
-    alt="Afbeelding met computer, overdekt, elektronica Automatisch gegenereerde beschrijving" />Plaats
-    nu het prisma in de opstelling en verplaats het scherm. Zie ook de
+1.  Plaats nu het prisma in de opstelling en verplaats het scherm. Zie ook de
     foto hieronder. De matte kant van het prisma wijst naar jou. Laat
     echter het filter op de LED zitten, dus zo’n mooi spectrum als op de
     foto is niet waarneembaar. (Op de foto is wel mooi zichtbaar dat de
     kleuren andersom zijn ten opzichte van proef 1).
+
+```{figure} ./media/simage10.jpeg" 
+---
+width: 10%
+name: prisma
+align: right
+---
+prisma
+```
 
 2.  Draai nu het prisma een klein beetje heen en weer, waarbij de ene
     keer er geen breking zichtbaar is op het scherm: (de lichtstraal
@@ -249,8 +266,18 @@ gemaakt is van kroonglas.
 
 3.  Meet de afstanden x en y zoals hieronder zijn aangeven. Let op: Zorg
     dat je x en y meet met een rechte hoek (90° ) ertussen. En bereken
-    vervolgens hoek $\gamma$ gamma. <img src="./media/simage11.png"
-    style="width:3.31102in;height:2.3937in" />Dit is de grenshoek.
+    vervolgens hoek $\gamma$ gamma. 
+
+```{figure} ./media/simage11.png" 
+---
+width: 10%
+name: grenhoek
+align: right
+---
+Dit is de grenshoek.
+```
+    
+
 
 4.  Bereken hieruit de brekingsindex.
 
@@ -265,7 +292,7 @@ n = \frac{1}{\sin\gamma}
 
 6.  Zit je er heel erg naast? Meet dan eens opnieuw.
 
-### Experiment 11b
+## Uitvoiering - Experiment 11b
 
 Bij het uitvoeren van dit experiment zijn een aantal zaken belangrijk:
 
@@ -298,7 +325,7 @@ Bij het uitvoeren van dit experiment zijn een aantal zaken belangrijk:
 Hieronder volgen de werkelijke stappen van de proeven die horen bij
 experiment 11b.
 
-#### Proef 5:
+### Proef 5:
 
 1.  Plaats het witte scherm van experiment 11a voor de tweede spleet (de
     exit spleet, degene het dichtst bij je).

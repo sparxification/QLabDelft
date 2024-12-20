@@ -165,6 +165,11 @@ Het veranderen van de ringen gebeurt met het volgende verband:
 $$2 \cdot d = n \cdot \lambda$$
 ```
 
+$$
+2 \cdot d = n \cdot \lambda
+$$
+
+
 Hierin is:
 
 *d* = verandering armlengte

@@ -1,6 +1,6 @@
 # Mach Zehnder interferometer practicumhandleiding
 
-<img src="./media/685b126cb1926c247802bbca7d90981886cb4f87.jpg"
+<img src="./media/mimage1.jpg"
 style="width:4.25653in;height:3.20833in" alt="figuur 1" />
 
 ## Inleiding
@@ -48,7 +48,7 @@ Onderstaande opstelling, met daarin:
 - Uitlijntool (1x)
 
 Figuur 1: De Mach Zehnder
-opstelling<img src="./media/685b126cb1926c247802bbca7d90981886cb4f87.jpg"
+opstelling<img src="./media/mimage1.jpg"
 style="width:6.26042in;height:4.71875in" alt="figuur 1" />
 
 ## Uitvoering
@@ -76,7 +76,7 @@ elementen betekent dat de interferometer opnieuw moet worden uitgelijnd.
 Als de interferometer is uitgelijnd, dan zie je bij het aanzetten een
 (bij voorkeur ringvormig) interferentiepatroon:
 
-<img src="./media/facfb804886dd2e181c10bd474a6638e6a466f1a.jpg"
+<img src="./media/mimage2.jpg"
 style="width:2.625in;height:3.48261in" />
 
 Figuur 2: Polarisator met daarachter op het scherm een ringvormig
@@ -142,7 +142,7 @@ is de opbouw van een lichtgolf te zien. Alleen lichtgolven met een
 *-component* in dezelfde richting als de polarisator worden doorgelaten.
 Kun je nu uitleggen waarom er dus maar 50% wordt doorgelaten?
 
-<img src="./media/cbf66c3ead2a0886e726fc43ce2db17792d3425a.png"
+<img src="./media/mimage3.png"
 style="width:6.26042in;height:2.13542in" />
 
 Figuur 3: Elektromagnetische (licht)golf. Afbeelding

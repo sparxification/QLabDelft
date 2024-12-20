@@ -7,4 +7,12 @@ Dit online boek bevat de handleidingen voor de experimenten van het QuantumLab v
 Experimenten voor scholieren van de 4e t/m 6e klas van HAVO en VWO.
 Het QuantumLab bevindt zich in het Science Centre van de TU Delft.
 
+``` {figure} figures/foto-labs.jpg
+---
+width: 60%
+name: foto van het lab
+align: left
+---
+QuantumLab TU Delft
+```
 

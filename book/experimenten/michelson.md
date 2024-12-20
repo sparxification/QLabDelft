@@ -161,7 +161,7 @@ minima).
 
 Het veranderen van de ringen gebeurt met het volgende verband:
 
-``` math
+```{math}
 2 \cdot d = n \cdot \lambda
 ```
 

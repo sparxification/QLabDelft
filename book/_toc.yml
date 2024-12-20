@@ -16,8 +16,8 @@ parts:
       - file: experimenten/malus.md
       - file: experimenten/tunnelen.md
       - file: experimenten/crypto.md
-      - file: experimenten/spectro
-      - file: experimenten/afm
+      - file: experimenten/spectro.md
+      - file: experimenten/afm.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb

@@ -327,7 +327,7 @@ Hoe groot is dat percentage?
 
 ## De wiskunde:
 ```{math}
-n = \sum_{i = 1}^{\infty}{A\left( \frac{1}{4} \right)^{i}} \label{1}
+n = \sum_{i = 1}^{\infty}{A\left( \frac{1}{4} \right)^{i}} \label{eq=1}
 ```
 
 Om dit op te lossen moet je wat weten over de *meetkundige reeks
@@ -366,7 +366,7 @@ n = \frac{50}{1 - \frac{1}{2}} = 100
 Er zullen in totaal dus uiteraard 100 deeltjes vervallen, want je begon
 met 100.
 
-Probeer nu zelf de oplossing te vinden van formule (1).
+Probeer nu zelf de oplossing te vinden van formule $ref{eq=1}$.
 
 <br>
 <br>

@@ -355,15 +355,15 @@ experiment 11b.
 4.  Bereken nu de golflengte van het licht met behulp van
     $alpha_{cal} = 25{^\circ}$ (eerder al bepaald)
 
-> En de formules:
->
-> ```{math}
-> \Theta = - 2\alpha_{cal}
-> ```
->
-> ```{math}
-> \lambda = \frac{sin(\Theta + \alpha)}{N}
-> ```
+    En de formules:
+
+    ```{math}
+    \Theta = - 2\alpha_{cal}
+    ```
+
+    ```{math}
+    \lambda = \frac{sin(\Theta + \alpha)}{N}
+    ```
 
 5.  Vergelijk je gevonden waarde met de theoretische golflengte 532nm
     van het bandpass filter

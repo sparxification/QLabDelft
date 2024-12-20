@@ -16,9 +16,7 @@ parts:
       - file: experimenten/malus.md
       - file: experimenten/tunnelen.md
       - file: experimenten/crypto.md
-      - file: experimenten/spectro1
-      - file: experimenten/spectro_czerny
-      - file: experimenten/spectro-digitaal
+      - file: experimenten/spectro
       - file: experimenten/afm
     - file: some_content/overview.md
       sections:

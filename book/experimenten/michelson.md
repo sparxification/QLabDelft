@@ -327,7 +327,7 @@ Hoe groot is dat percentage?
 
 ## De wiskunde:
 ```{math}
-n = \sum_{i = 1}^{\infty}{A\left( \frac{1}{4} \right)^{i}}
+n = \sum_{i = 1}^{\infty}{A\left( \frac{1}{4} \right)^{i}} \label{1}
 ```
 
 Om dit op te lossen moet je wat weten over de *meetkundige reeks

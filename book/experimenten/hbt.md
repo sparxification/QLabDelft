@@ -77,27 +77,29 @@ lichtbron te bestuderen, zoals:
 
 De functie is gedefinieerd als:
 ```{math}
-g^{(2)}(t) = \frac{\left\langle I\left( t_{0} \right)I\left( t_{0} + t \right) \right\rangle\,}{\left\langle I\left( t_{0} \right) \right\rangle^{2}}
 :label: 1
+g^{(2)}(t) = \frac{\left\langle I\left( t_{0} \right)I\left( t_{0} + t \right) \right\rangle\,}{\left\langle I\left( t_{0} \right) \right\rangle^{2}}
+
 ```
-waarbij $`I(t)`$de intensiteit van het licht is op tijdstip $`(t)`$ en
-de hoekhaken$`\,\left\langle \right\rangle\,`$gemiddelde waarden
+waarbij $I(t)$ de intensiteit van het licht is op tijdstip $(t)$ en
+de hoekhaken $\left\langle \right\rangle\$ gemiddelde waarden
 aangeven.
 
-De intensiteiten $`I\left( t_{0} \right)`$ en
-$`I\left( t_{0} + t \right)`$ in de correlatiefunctie staan voor de
+De intensiteiten $I\left( t_{0} \right)$ en
+$I\left( t_{0} + t \right)$ in de correlatiefunctie staan voor de
 gemeten intensiteit op twee verschillende tijdstippen. De intensiteit
 kan worden gezien als het aantal fotonen dat in een korte tijdsperiode
 door de detector wordt waargenomen, of meer algemeen, het vermogen dat
 door de detector wordt ontvangen per oppervlakte-eenheid.
 
 Dus voor twee verschillende detectoren, die respectievelijk een
-intensiteit $`I_{1}`$ en $`I_{2}`$ meten, zou de correlatiefunctie als
+intensiteit $I_{1}$ en $I_{2}$ meten, zou de correlatiefunctie als
 volgt kunnen worden uitgedrukt:
 
 ```{math}
-g^{(2)}(t) = \frac{\left\langle I_{1}\left( t_{0} \right)I_{2}\left( t_{0} + t \right) \right\rangle\,}{\left\langle I_{1}\left( t_{0} \right) \right\rangle\left\langle I_{2}\left( t_{0} + t \right) \right\rangle}
 :label: 2
+g^{(2)}(t) = \frac{\left\langle I_{1}\left( t_{0} \right)I_{2}\left( t_{0} + t \right) \right\rangle\,}{\left\langle I_{1}\left( t_{0} \right) \right\rangle\left\langle I_{2}\left( t_{0} + t \right) \right\rangle}
+
 ```
 
 Hierbij worden de gemeten intensiteiten op twee verschillende momenten
@@ -120,8 +122,9 @@ Omdat bovenstaande formule niet erg intuïtief en praktisch is, maken we
 gebruik van dit verband:
 
 ```{math}
-\mathbf{\,}\mathbf{g}^{\left( \mathbf{2} \right)}\left( \mathbf{t} \right)\mathbf{=}\frac{\mathbf{aantal\, coïncidenties}}{\mathbf{verwacht\, aantal\, coïncidenties\,}}\mathbf{=}\frac{\mathbf{N}_{\mathbf{A\& B}}}{\mathbf{N}_{\mathbf{verwacht}}}
 :label: 3
+\mathbf{\,}\mathbf{g}^{\left( \mathbf{2} \right)}\left( \mathbf{t} \right)\mathbf{=}\frac{\mathbf{aantal\, coïncidenties}}{\mathbf{verwacht\, aantal\, coïncidenties\,}}\mathbf{=}\frac{\mathbf{N}_{\mathbf{A\& B}}}{\mathbf{N}_{\mathbf{verwacht}}}
+
 ```
 
 Een coïncidentie is een gelijktijdige gebeurtenis of een gebeurtenis
@@ -131,11 +134,12 @@ wordt gemeten bij detector A en B.
 Het verwachte aantal coïncidenties kan als volgt worden berekend:
 
 ```{math}
-\mathbf{N}_{\mathbf{verwacht}}\mathbf{=}\left( \frac{\mathbf{N}_{\mathbf{A\,}}\mathbf{\cdot}\mathbf{N}_{\mathbf{B}}\mathbf{\,}}{\mathbf{T}} \right)\mathbf{\cdot}\mathbf{\Delta}\mathbf{t}
 :label: 4
+\mathbf{N}_{\mathbf{verwacht}}\mathbf{=}\left( \frac{\mathbf{N}_{\mathbf{A\,}}\mathbf{\cdot}\mathbf{N}_{\mathbf{B}}\mathbf{\,}}{\mathbf{T}} \right)\mathbf{\cdot}\mathbf{\Delta}\mathbf{t}
+
 ```
 Waarin $N_{A}$ en $N_{B}$ het totaal aantal gemeten fotonen is in
-detector A en B, $T\$ de totale meettijd is, en $\Delta{t}$ de
+detector A en B, $T$ de totale meettijd is, en $\Delta t$ de
 tijdsvertraging is.
 
 ### Betekenis van de waarde van $g^{(2)}(t)$

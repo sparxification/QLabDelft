@@ -27,14 +27,18 @@ Bij dit experiment wordt gebruik gemaakt van een
 spanningsdelerschakeling zoals hieronder is afgebeeld om de spanning te
 meten tijdens het maken en vooral het verbreken van het contact.  
 Bij een spanningsdeler geldt:
-$$U_{meet} = \frac{R_{2}}{R_{1} + R_{2}} \cdot U_{tot}$$
-
+```{math}
+U_{meet} = \frac{R_{2}}{R_{1} + R_{2}} \cdot U_{tot}
+```
 Hieruit valt af te leiden dat:
-$$R_{1} = \frac{R_{2}\left( U_{tot} - U_{meet} \right)}{U_{meet}}$$
 
+```{math}
+R_{1} = \frac{R_{2}\left( U_{tot} - U_{meet} \right)}{U_{meet}}
 ```
+
+**Opdracht**
 Laat deze afleiding zien.
-```
+
 
 <img src="./media/cimage1.png" style="width:2.5in;height:2.70833in" />
 
@@ -67,9 +71,9 @@ maar bij onze keuze van R<sub>2</sub> zijn de eerste tien stapjes
 nagenoeg even groot. We kunnen zo een weerstand van ongeveer 13 kΩ
 meten. 
 
-```
+**Opdracht**
 Schrijf deze formule als R<sub>1</sub> = ...*
-```
+
 
 *De weerstand is uit te drukken in fundamentele natuurconstanten:*
 

@@ -1,4 +1,6 @@
-# Inleiding
+# Quantum conductantie of Quantum geleiding - practicumhandleiding
+
+## Inleiding
 
 Bij bijvoorbeeld een lichtschakelaar is het de bedoeling dat, bij het
 sluiten van de schakelaar, een groot aantal atomen van de twee contacten
@@ -13,13 +15,13 @@ effecten optreden, vergelijkbaar met de effecten die optreden als je
 draden zo dun mogelijk maakt, zoals bij de contacten in de huidige
 computerchips. Waar is de ondergrens?
 
-# Doel
+## Doel
 
 In dit experiment wordt onderzocht wat quantum geleiding betekent bij
 twee vergulde contacten en wordt de bijbehorende quantumweerstand
 bepaald.
 
-# Theorie
+## Theorie
 
 Bij dit experiment wordt gebruik gemaakt van een
 spanningsdelerschakeling zoals hieronder is afgebeeld om de spanning te
@@ -103,7 +105,7 @@ is de draad weer dikker en kan de warmte in de bulk van het materiaal
 worden opgenomen. Vandaar dat dit experiment gewoon bij
 kamertemperatuur, op je werktafel kan worden uitgevoerd.*
 
-# Materiaal
+## Materiaal
 
 De opstelling bestaat uit de volgende onderdelen:
 
@@ -130,7 +132,7 @@ bestaat alleen uit een batterijvoeding voor de regeling van
 U<sub>totaal</sub> , een versterker voor de luidspreker en
 aansluitpunten voor verbindingen naar de oscilloscoop en toongenerator.
 
-# Uitvoering
+## Uitvoering
 
 Dit is samenvattend wat we gaan doen:
 
@@ -231,11 +233,11 @@ zetten en het contact bijstellen met de stelschroef.
     de richtingscoëfficiënt (helling) van deze grafiek kan tenslotte de
     Quantumweerstand worden bepaald.
 
-# Conclusie en discussie
+## Conclusie en discussie
 
 Zelf doen.
 
-# Bronnen:
+## Bronnen:
 
 *Delen van deze publicatie zijn overgenomen uit het NVOX artikel:
 “Quantum in je lichtschakelaar”.*

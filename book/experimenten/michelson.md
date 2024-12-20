@@ -367,9 +367,7 @@ n = \frac{50}{1 - \frac{1}{2}} = 100
 Er zullen in totaal dus uiteraard 100 deeltjes vervallen, want je begon
 met 100.
 
-Probeer nu zelf de oplossing te vinden van formule {eq}`1`. 
-$\ref{eq:1}$.
-
+Probeer nu zelf de oplossing te vinden van formule ({eq}`1`).
 <br>
 <br>
 <br>

@@ -1,10 +1,13 @@
-# Inleiding
+# Tunnelen 
+practicumhandleiding
+
+## Inleiding
 
 Uit de quantummechanica weten we dat elektronen kunnen tunnelen. Licht
 (fotonen) vertonen soortgelijk gedrag. Met deze proef kan het
 tunneleffect worden gedemonstreerd.
 
-# Doel
+## Doel
 
 Het aantonen van het tunneleffect aan de hand van fotonen die door een
 barrière tunnelen. De barrière bestaat uit een driehoekige luchtspleet
@@ -17,11 +20,11 @@ te meten.
 <img src="./media/timage1.jpg"
 style="width:3.97305in;height:3.05167in" />
 
-# Hypothese
+## Hypothese
 
 Wat zijn je verwachtingen met betrekking tot de resultaten?
 
-# Theorie
+## Theorie
 
 <img src="./media/timage2.png"
 style="width:4.5625in;height:2.46875in" />
@@ -91,7 +94,7 @@ Geef antwoord op de volgende vragen bij dit experiment:
 
 - Wat bepaald de tunnelkans?
 
-# Materiaal
+## Materiaal
 
 <img src="./media/timage3.jpg"
 style="width:4.64583in;height:3.50177in" />
@@ -107,9 +110,9 @@ style="width:4.64583in;height:3.50177in" />
 - Twee prisma’s met spleet in een 3D-geprinte houder op een lineaire
   slede (slider)
 
-# Uitvoering
+## Uitvoering
 
-## Veiligheid
+### Veiligheid
 
 Let bij de uitvoering op de veiligheid: Van laserlicht kun je blijvend
 blind raken. Ondanks dat deze laser is geselecteerd om mee te werken
@@ -140,7 +143,7 @@ De uitvoering in stappen:
 
 5.  En scan zo, als het ware, de spleetbreedte tussen de prisma’s.
 
-# Resultaten
+## Resultaten
 
 Maak een tabel en zet daarin voor elke slag met de draaiknop de gemeten
 spanning.
@@ -148,7 +151,7 @@ spanning.
 Zet de gegevens uit de tabel uit in een grafiek: Horizontaal het aantal
 slagen, verticaal de transmissie of spanning in mV.
 
-# Conclusie
+## Conclusie
 
 Geef hieronder je conclusies met betrekking tot het doel van de proef.
 
@@ -159,7 +162,9 @@ Klopt dit met je verwachtingen? Waarom wel of niet?
 Voeg dit functieverband toe om zo een functiefit te krijgen (een
 vloeiende lijn door je meetgegevens).
 
-# Ideeën:
+## Ideeën:
 
-Resonant optical tunneling effect: Twee barrière’s, die resonantie
+- Resonant optical tunneling effect: Twee barrière’s, die resonantie
 vertonen bij bepaalde frequenties.
+- Tunnelen met microgolven
+- Tunneldiode

@@ -38,6 +38,7 @@ R_{1} = \frac{R_{2}\left( U_{tot} - U_{meet} \right)}{U_{meet}}
 ```
 
 **Opdracht**
+
 Laat deze afleiding zien.
 
 
@@ -73,6 +74,7 @@ nagenoeg even groot. We kunnen zo een weerstand van ongeveer 13 kΩ
 meten. 
 
 **Opdracht**
+
 Schrijf deze formule als R<sub>1</sub> = ...*
 
 
@@ -102,6 +104,12 @@ uitleg met valentie- en geleidingsbanden is meer op zijn plaats. (zie
 <img src="./media/cimage2.jpg"
 title="Video met titel: What Are Electrons REALLY Doing In A Wire? Quantum Physics and High School Myths"
 style="width:6.07292in;height:3.52083in" />
+
+<div style="display: flex; justify-content: center;">
+<div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGJqykotjog?si=uaPMSdXJ0Su2aQ61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 *Onregelmatigheden in het rooster vormen de barrières en zijn de oorzaak
 van warmteontwikkeling. De atomaire draad kort (veel korter dan de vrije

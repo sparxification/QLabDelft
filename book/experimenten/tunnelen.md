@@ -149,7 +149,7 @@ Maak een tabel en zet daarin voor elke slag met de draaiknop de gemeten
 spanning.
 
 Zet de gegevens uit de tabel uit in een grafiek: Horizontaal het aantal
-slagen, verticaal de transmissie of spanning in mV.
+slagen, verticaal de transmissie of spanning in mV. Gebruik een spreidingdiagram of scattergraph.
 
 ## Conclusie
 

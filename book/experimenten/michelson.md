@@ -1,4 +1,5 @@
-# Michelson Interferometer <br> (de bom-tester)  
+# Michelson Interferometer <br> (de bom-tester)
+practicumhandleiding  
 ```{figure} ./media/image1.jpeg
     ---
     width:5
@@ -369,6 +370,7 @@ Er zullen in totaal dus uiteraard 100 deeltjes vervallen, want je begon
 met 100.
 
 **Opdracht**
+
 Probeer nu zelf de oplossing te vinden van formule [](#1).
 <br>
 <br>

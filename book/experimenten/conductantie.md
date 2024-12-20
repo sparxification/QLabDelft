@@ -1,4 +1,5 @@
-# Quantum conductantie of Quantum geleiding - practicumhandleiding
+# Quantum conductantie
+practicumhandleiding
 
 ## Inleiding
 

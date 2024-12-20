@@ -1,4 +1,5 @@
-# Mach Zehnder interferometer practicumhandleiding
+# Mach Zehnder interferometer 
+practicumhandleiding
 
 <img src="./media/mimage1.jpg"
 style="width:4.25653in;height:3.20833in" alt="figuur 1" />

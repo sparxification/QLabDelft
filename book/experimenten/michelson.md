@@ -327,7 +327,7 @@ Hoe groot is dat percentage?
 
 ## De wiskunde:
 ```{math}
-n = \sum_{i = 1}^{\propto \,}{A\left( \frac{1}{4} \right)^{i}}\
+n = \sum_{i = 1}^{\infty}{A\left( \frac{1}{4} \right)^{i}}
 ```
 
 Om dit op te lossen moet je wat weten over de *meetkundige reeks
@@ -339,7 +339,7 @@ Stel 100 deeltjes vervallen. Na 1 halfwaardetijd zijn er 50 over, na 2
 zijn er 25, et cetera. Hoeveel deeltjes zullen er in totaal vervallen?
 
 ```{math}
-n = 50 + 25 + 12,5 + \ldots\ 
+n = 50 + 25 + 12,5 + \ldots
 ```
 
 Ofwel:
@@ -351,7 +351,7 @@ n = \sum_{i = 1}^{\,\infty}{100\left( \frac{1}{2} \right)^{i}}
 De meetkundige reeks heeft de volgende algemene oplossing:
 
 ```{math}
-n = \frac{a\,}{1 - r\,}\
+n = \frac{a}{1 - r}
 ```
 
 Waarin *a* het antwoord is van eerste sommatie stap (in dit geval *i=1*)
@@ -360,7 +360,7 @@ en *r* is de factor tussen de haakjes.
 Dus wordt de oplossing van het voorbeeld:
 
 ```{math}
-n = \frac{50\,}{1 - \frac{1}{2}\,} = 100\
+n = \frac{50}{1 - \frac{1}{2}} = 100
 ```
 
 Er zullen in totaal dus uiteraard 100 deeltjes vervallen, want je begon
@@ -368,8 +368,11 @@ met 100.
 
 Probeer nu zelf de oplossing te vinden van formule (1).
 
+<br>
+<br>
+<br>
 Oplossing:
 
 ```{math}
-A\frac{\frac{1}{4\,}}{1 - \frac{1}{4}\,} = \frac{A}{3}\
+A\frac{\frac{1}{4}}{1 - \frac{1}{4}} = \frac{A}{3}
 ```

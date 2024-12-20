@@ -162,7 +162,7 @@ minima).
 Het veranderen van de ringen gebeurt met het volgende verband:
 
 ``` math
-2 \cdot d = n \cdot \lambda
+$$ 2 \cdot d = n \cdot \lambda $$
 ```
 
 Hierin is:

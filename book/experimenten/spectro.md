@@ -268,7 +268,7 @@ prisma
     dat je x en y meet met een rechte hoek (90° ) ertussen. En bereken
     vervolgens hoek $\gamma$ gamma. 
 
-```{figure} ./media/simage11.png" 
+```{figure} ./media/simage11.png
 ---
 width: 10%
 name: grenhoek

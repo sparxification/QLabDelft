@@ -244,7 +244,7 @@ gemaakt is van kroonglas.
     foto is niet waarneembaar. (Op de foto is wel mooi zichtbaar dat de
     kleuren andersom zijn ten opzichte van proef 1).
 
-```{figure} ./media/simage10.jpeg" 
+```{figure} ./media/simage10.jpeg
 ---
 width: 10%
 name: prisma

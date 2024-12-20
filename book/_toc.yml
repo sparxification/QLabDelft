@@ -18,9 +18,6 @@ parts:
       - file: experimenten/crypto.md
       - file: experimenten/spectro.md
       - file: experimenten/afm.md
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
     - file: exercises/exercises
       sections:
       - file: exercises/001.md

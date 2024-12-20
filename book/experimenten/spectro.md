@@ -246,7 +246,7 @@ gemaakt is van kroonglas.
 
 ```{figure} ./media/simage10.jpeg
 ---
-width: 10%
+width: 60%
 name: prisma
 align: right
 ---
@@ -270,11 +270,11 @@ prisma
 
 ```{figure} ./media/simage11.png
 ---
-width: 10%
-name: grenhoek
-align: right
+width: 100%
+name: grenshoek
+align: center
 ---
-Dit is de grenshoek.
+Afbeelding van Thorlabs
 ```
     
 
@@ -285,14 +285,14 @@ Dit is de grenshoek.
 n = \frac{1}{\sin\gamma}
 ```
 
-> *Afbeelding van Thorlabs*
+
 
 5.  Vergelijk de gevonden waarde voor de brekingsindex *n* met de
     theoretische voor het gebruikte kroonglas: *n*=1,626 .
 
 6.  Zit je er heel erg naast? Meet dan eens opnieuw.
 
-## Uitvoiering - Experiment 11b
+## Uitvoering - Experiment 11b
 
 Bij het uitvoeren van dit experiment zijn een aantal zaken belangrijk:
 

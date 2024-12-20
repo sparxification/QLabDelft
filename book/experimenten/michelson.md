@@ -165,11 +165,6 @@ Het veranderen van de ringen gebeurt met het volgende verband:
 2 \cdot d = n \cdot \lambda
 ```
 
-$$
-2 \cdot d = n \cdot \lambda
-$$
-
-
 Hierin is:
 
 *d* = verandering armlengte
@@ -331,8 +326,9 @@ ontdekte bommen, zonder dat ze af zijn gegaan.
 Hoe groot is dat percentage?
 
 ## De wiskunde:
-
-$`n = \sum_{i = 1}^{\propto \,}{A\left( \frac{1}{4} \right)^{i}}\,`$(1)
+```{math}
+n = \sum_{i = 1}^{\propto \,}{A\left( \frac{1}{4} \right)^{i}}\
+```
 
 Om dit op te lossen moet je wat weten over de *meetkundige reeks
 (geometric series)*:
@@ -342,20 +338,20 @@ Voorbeeld:
 Stel 100 deeltjes vervallen. Na 1 halfwaardetijd zijn er 50 over, na 2
 zijn er 25, et cetera. Hoeveel deeltjes zullen er in totaal vervallen?
 
-``` math
+```{math}
 n = 50 + 25 + 12,5 + \ldots\ 
 ```
 
 Ofwel:
 
-``` math
+```{math}
 n = \sum_{i = 1}^{\,\infty}{100\left( \frac{1}{2} \right)^{i}}
 ```
 
 De meetkundige reeks heeft de volgende algemene oplossing:
 
-``` math
-n = \frac{a\,}{1 - r\,}\,
+```{math}
+n = \frac{a\,}{1 - r\,}\
 ```
 
 Waarin *a* het antwoord is van eerste sommatie stap (in dit geval *i=1*)
@@ -363,8 +359,8 @@ en *r* is de factor tussen de haakjes.
 
 Dus wordt de oplossing van het voorbeeld:
 
-``` math
-n = \frac{50\,}{1 - \frac{1}{2}\,} = 100\,
+```{math}
+n = \frac{50\,}{1 - \frac{1}{2}\,} = 100\
 ```
 
 Er zullen in totaal dus uiteraard 100 deeltjes vervallen, want je begon
@@ -374,6 +370,6 @@ Probeer nu zelf de oplossing te vinden van formule (1).
 
 Oplossing:
 
-``` math
-A\frac{\frac{1}{4\,}}{1 - \frac{1}{4}\,} = \frac{A}{3}\,
+```{math}
+A\frac{\frac{1}{4\,}}{1 - \frac{1}{4}\,} = \frac{A}{3}\
 ```

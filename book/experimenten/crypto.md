@@ -46,7 +46,7 @@ Opstelling met links verzender Alice, in het midden afluisteraar Eve en
 rechts ontvanger Bob.
 
 <img src="./media/abeimage1.jpg"
-style="width:6.26042in;height:1.81257in" />
+style="width:6.26042in;height:2.81257in" />
 
 ## Uitvoering
 
@@ -63,47 +63,43 @@ dus alleen Alice en Bob:
     Kijk niet rechtstreeks in de laser of zijn reflectie en laat deze
     niet op anderen schijnen.
 
-3.  Testen: Zorg dat de laser en de ontvanger in afstel-modus staan:
+3.  Testen: Zorg dat de laser en de ontvanger in **afstel-modus** staan:
 
-    1.  De laser van Alice moet continu schijnen: Houdt daartoe zo nodig
-        de rode knop circa 20 seconden ingedrukt.
-
-    2.  Op de ontvanger van Bob moet het ledje aan de zijkant oranje
-        branden. Druk daartoe zo nodig de groene knop één keer in.
-
-    3.  Zorg dat het draaiding (
-        ``` math
-        \frac{\lambda}{2}
-        ```
-        plaat) bij Alice op 45 graden staat en bij Bob op 0 graden.
-
-    4.  De sensors van Bob moet nu even beide (even sterk) belicht
-        worden. Komt het laserlicht niet precies in de sensors? Dan is
-        de opstelling niet meer goed uitgelijnd. Controleer of Alice en
-        Bob echt goed recht staan tegen Eve aan. Ga nooit zomaar ergens
-        aan draaien, maar vragen even om hulp. In de meeste gevallen kan
-        de laser een klein beetje worden bijgesteld.
-
-        1.  Komt het licht wel goed op de de ontvanger die rechtdoor
-            staat? Dan kan het prisma met de stelschroeven op de
-            weerkaatste sensor worden gericht.
-
-    5.  Druk nu kort op de rode knop van Alice: De laser staat nu in
-        puls-modus.
-
-    6.  Druk nogmaals kort op de knop en als het goed is lichten beide
-        blauwe leds op de ontvangers van Bob op.
-
-    7.  Zorg er nu voor dat je rest van de test uitvoert volgens
-        onderstaande tabel en de andere 7 uitkomsten hiermee in
-        overeenstemming zijn. Let vooral op de gevallen waarin beide
-        led’s moeten oplichten.
-        <img src="./media/abeimage2.png"
-        style="width:5.51042in;height:1.41667in" />
-
-    8.  Het testen is nu klaar, druk eenmaal kort op de groene knop van
-        Bob, **zodat het ledje groen wordt. Bob is nu ingesteld op de
-        meet-modus.**
+    >\a. De laser van Alice moet continu schijnen: Houdt daartoe zo nodig
+    >    de rode knop circa 20 seconden ingedrukt.
+    >
+    >\b. Op de ontvanger van Bob moet het ledje aan de zijkant oranje
+    >    branden. Druk daartoe zo nodig de groene knop één keer in.
+    >
+    >\c. Zorg dat het draaiding ($\frac{\lambda}{2}$ -plaat) bij Alice op 45 graden staat en bij Bob op 0 graden.
+    >
+    >\d  De sensors van Bob moet nu even beide (even sterk) belicht
+    >    worden. Komt het laserlicht niet precies in de sensors? Dan is
+    >    de opstelling niet meer goed uitgelijnd. Controleer of Alice en
+    >    Bob echt goed recht staan tegen Eve aan. Ga nooit zomaar ergens
+    >    aan draaien, maar vragen even om hulp. In de meeste gevallen kan
+    >    de laser een klein beetje worden bijgesteld.
+    >
+    >>    i.  Komt het licht wel goed op de de ontvanger die rechtdoor
+    >        staat? Dan kan het prisma met de stelschroeven op de
+    >        weerkaatste sensor worden gericht.
+    >
+    >\e. Druk nu kort op de rode knop van Alice: De laser staat nu in
+    >    puls-modus.
+    >
+    >\f. Druk nogmaals kort op de knop en als het goed is lichten beide
+    >    blauwe leds op de ontvangers van Bob op.
+    >
+    >\g. Zorg er nu voor dat je rest van de test uitvoert volgens
+    >    onderstaande tabel en de andere 7 uitkomsten hiermee in
+    >    overeenstemming zijn. Let vooral op de gevallen waarin beide
+    >    led’s moeten oplichten.
+    >    <img src="./media/abeimage2.png"
+    >    style="width:5.51042in;height:1.41667in" />
+    >
+    >\h. Het testen is nu klaar, druk eenmaal kort op de groene knop van
+    >    Bob, **zodat het ledje groen wordt. Bob is nu ingesteld op de
+    >    meet-modus.**
 
 ### Experiment
 
@@ -121,20 +117,22 @@ van een meetprotocol is te vinden in de geprinte bijlage.
 
 #### 1. Sleutelgeneratie 
 
-1.  Zet Alice en Bob neer zoals bij de **Start & Voorbereiding** is
+a.  Zet Alice en Bob neer zoals bij de **Start & Voorbereiding** is
     uiteengezet.
 
-2.  Alice en Bob kiezen willekeurig hun basissen en Alice kiest ook
+b.  Alice en Bob kiezen willekeurig hun basissen en Alice kiest ook
     willekeurige bits voor de transmissie. De bijlage (geprint) bevat
     een meetprotocol van 52 bits. Vul de bits en basissen in die Alice
     zal gebruiken om haar signaal te verzenden en de basissen die Bob
     zal gebruiken voor detectie. Zie ook hieronder voor een
-    voorbeeld.<img src="./media/abeimage3.png"
+    voorbeeld.
+    <br>
+    <img src="./media/abeimage3.png"
     style="width:5.51042in;height:1.96875in" />
 
-3.  Zend de bits van Alice in de basissen gekozen bij *b*. Bob noteert
+c.  Zend de bits van Alice in de basissen gekozen bij *b*. Bob noteert
     de bits die hij ontvangt. Bob gebruikt hierbij zijn basissen! (zie
-    ook onderaan dit kopje c).
+    ook onderaan dit kopje 3).
 
 > *Alice en Bob moeten een sleutel genereren die minstens 20 bits lang
 > is. We raden aan om een transmissievolgorde van ten minste 52 bits te
@@ -171,7 +169,7 @@ van een meetprotocol is te vinden in de geprinte bijlage.
 >
 > ***x = 45° en + = 0°.***
 
-4.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
+d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
     meting hebben gebruikt. Ze wissen vervolgens de metingen waar de
     basissen niet overeenkomen. De resterende metingen/bits vormen de
     volledige encryptiesleutel.

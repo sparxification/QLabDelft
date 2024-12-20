@@ -372,7 +372,7 @@ experiment 11b.
     berekening uit. Klopt dit?
 
 - Klaar? **Zet de software op 0 graden** en verifieer dat het platform
-  op 0 graden staat voordat je de software afsluit.
+  op 0 graden staat voordat je de software afsluit. Zet tenslotte met het kleine oranje schakelaartje op de motorsturingkubus de motor uit.
 
 ## Resultaten
 

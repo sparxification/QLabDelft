@@ -65,15 +65,15 @@ dus alleen Alice en Bob:
 
 3.  Testen: Zorg dat de laser en de ontvanger in **afstel-modus** staan:
 
-    >\a. De laser van Alice moet continu schijnen: Houdt daartoe zo nodig
+    >a. De laser van Alice moet continu schijnen: Houdt daartoe zo nodig
     >    de rode knop circa 20 seconden ingedrukt.
     >
-    >\b. Op de ontvanger van Bob moet het ledje aan de zijkant oranje
+    >b. Op de ontvanger van Bob moet het ledje aan de zijkant oranje
     >    branden. Druk daartoe zo nodig de groene knop één keer in.
     >
-    >\c. Zorg dat het draaiding ($\frac{\lambda}{2}$ -plaat) bij Alice op 45 graden staat en bij Bob op 0 graden.
+    >c. Zorg dat het draaiding ($\frac{\lambda}{2}$ -plaat) bij Alice op 45 graden staat en bij Bob op 0 graden.
     >
-    >\d  De sensors van Bob moet nu even beide (even sterk) belicht
+    >d.  De sensors van Bob moet nu even beide (even sterk) belicht
     >    worden. Komt het laserlicht niet precies in de sensors? Dan is
     >    de opstelling niet meer goed uitgelijnd. Controleer of Alice en
     >    Bob echt goed recht staan tegen Eve aan. Ga nooit zomaar ergens
@@ -84,20 +84,20 @@ dus alleen Alice en Bob:
     >        staat? Dan kan het prisma met de stelschroeven op de
     >        weerkaatste sensor worden gericht.
     >
-    >\e. Druk nu kort op de rode knop van Alice: De laser staat nu in
+    >e. Druk nu kort op de rode knop van Alice: De laser staat nu in
     >    puls-modus.
     >
-    >\f. Druk nogmaals kort op de knop en als het goed is lichten beide
+    >f. Druk nogmaals kort op de knop en als het goed is lichten beide
     >    blauwe leds op de ontvangers van Bob op.
     >
-    >\g. Zorg er nu voor dat je rest van de test uitvoert volgens
+    >g. Zorg er nu voor dat je rest van de test uitvoert volgens
     >    onderstaande tabel en de andere 7 uitkomsten hiermee in
     >    overeenstemming zijn. Let vooral op de gevallen waarin beide
     >    led’s moeten oplichten.
     >    <img src="./media/abeimage2.png"
     >    style="width:5.51042in;height:1.41667in" />
     >
-    >\h. Het testen is nu klaar, druk eenmaal kort op de groene knop van
+    >h. Het testen is nu klaar, druk eenmaal kort op de groene knop van
     >    Bob, **zodat het ledje groen wordt. Bob is nu ingesteld op de
     >    meet-modus.**
 
@@ -115,7 +115,7 @@ Om de oefeningen te voltooien, moet de gebruiker bekend zijn met de
 encryptieprincipes die in de theorie worden uiteengezet. Een voorbeeld
 van een meetprotocol is te vinden in de geprinte bijlage.
 
-#### 1. Sleutelgeneratie 
+### 1. Sleutelgeneratie 
 
 a.  Zet Alice en Bob neer zoals bij de **Start & Voorbereiding** is
     uiteengezet.
@@ -182,25 +182,23 @@ d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
 > bits te genereren, dan moet de transmissie worden herhaald met meer
 > metingen totdat een sleutel van 20 bits is gegenereerd.*
 
-#### 2. Versleuteling en verzending van een vierletterwoord 
+### 2. Versleuteling en verzending van een vierletterwoord 
 
-> e\. Versleutel het bericht van Alice (4 letters) met de gegenereerde
-> sleutel.
->
-> f\. Zend het versleutelde bericht van Alice naar Bob.
->
-> *De transmissie van het daadwerkelijke bericht wordt volledig
-> uitgevoerd in één basis. Alice zendt haar versleutelde bits (0° voor
-> 0, 90° voor 1). Alice en Bob veranderen de basis niet voor de
-> datatransmissie.*
->
-> g\. Decrypt de bits die Bob heeft ontvangen om het bericht van Alice
-> te vinden.
+e. Versleutel het bericht van Alice (4 letters) met de gegenereerde sleutel.
 
-#### 3. Toevoegen van Eve en detectie van afluisteren 
+f. Zend het versleutelde bericht van Alice naar Bob.
 
-1.  Plaats Eve tussen Alice en Bob, en stel beide sensorelektronica's in
-    op **afstelmodus (LED licht geel op)**. Stel de ontvanger van Eve zo
+ *De transmissie van het daadwerkelijke bericht wordt volledig
+ uitgevoerd in één basis. Alice zendt haar versleutelde bits (0° voor
+ 0, 90° voor 1). Alice en Bob veranderen de basis niet voor de
+ datatransmissie.*
+
+g. Decrypt de bits die Bob heeft ontvangen om het bericht van Alice
+te vinden.
+
+### 3. Toevoegen van Eve en detectie van afluisteren 
+
+i.  Plaats Eve tussen Alice en Bob, en stel beide sensorelektronica's in op **afstelmodus (LED licht geel op)**. Stel de ontvanger van Eve zo
     af dat alle 8 transmissiegevallen werken met Alice. Zie tabel:
 
 > <img src="./media/abeimage2.png"
@@ -213,7 +211,7 @@ d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
 > zender en ontvanger. Zet vervolgens de sensorelektronica’s in
 > meetmodus.*
 
-2.  Vul de tabel voor Eve in, die de willekeurige keuze van de + of x
+j.  Vul de tabel voor Eve in, die de willekeurige keuze van de + of x
     basis bepaalt. Willekeurige basissen zijn ook nodig voor Alice en
     Bob, en Alice moet willekeurige bits kiezen voor transmissie.
 
@@ -228,7 +226,7 @@ d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
 > vinden in de bijlage. Houd er rekening mee dat de operator van Eve
 > geen gegevens hoeft vast te leggen.*
 
-3.  Zend het eerste bit van Alice met de basis gekozen in de vorige
+k.  Zend het eerste bit van Alice met de basis gekozen in de vorige
     oefening. Eve kiest haar eerste basis (willekeurig gekozen bij *h*).
     Ze ontvangt een bit dat ze doorgeeft aan Bob met dezelfde basis. Bob
     noteert het bit dat hij ontvangt. Dit wordt uitgevoerd voor alle 52
@@ -238,7 +236,7 @@ d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
 > signaal van Alice met de willekeurig gekozen basis uit h. Vervolgens
 > zendt ze haar meting uit (met dezelfde basis).*
 
-4.  Alice en Bob wisselen openbaar hun basissen uit voor elke meting. Ze
+l.  Alice en Bob wisselen openbaar hun basissen uit voor elke meting. Ze
     wissen vervolgens de metingen in de reeks waar de basissen niet
     overeenkomen.
 
@@ -247,7 +245,7 @@ d.  Alice en Bob wisselen openbaar de basissen uit die ze bij elke
 > resterende vormt de bitreeks die wordt gebruikt om te testen op de
 > aanwezigheid van een afluisteraar.*
 
-5.  Vergelijk de resultaten van Alice en Bob uit *j*.
+m.  Vergelijk de resultaten van Alice en Bob uit *j*.
 
 > *Door het afluisteren van Eve en het uitzenden van bits met een
 > willekeurige basis (niet noodzakelijkerwijs identiek aan die van

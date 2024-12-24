@@ -102,7 +102,7 @@ while True:
 
             # Clear the previous output to avoid plotting over the old data
             clear_output(wait=True)
-            plt.clf
+            plt.clf()
             
             # Plot the updated data
             plt.plot(range(len(values1)), values2, '.', markersize=10, c='blue') # plot, but cheat a bit on the time axis....looks a bit nicer.

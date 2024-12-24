@@ -1,12 +1,13 @@
 # Frank-Hertz experiment
 practicumhandleiding  
-```{figure} ./media/image1.jpeg
+
+```{figure} ./media/3bscientific-frank.png
     ---
     width:5
-    name: opstelling Michelson
+    name: opstelling Frank
     align: center 
     ---
-Foto van de Michelson Interferometer opstelling
+Foto van de Frank-Hertz opstelling (van 3Bscientific)
 ```
 
 ## Inleiding

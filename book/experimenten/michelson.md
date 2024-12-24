@@ -1,5 +1,5 @@
-# Michelson Interferometer <br> (de bom-tester)
-practicumhandleiding  
+# Michelson Interferometer 
+(de bom-tester) - practicumhandleiding  
 ```{figure} ./media/image1.jpeg
     ---
     width:5

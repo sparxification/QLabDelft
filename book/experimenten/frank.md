@@ -31,7 +31,7 @@ Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd.
 ### Bohrmodel 
 In het Bohrmodel van een atoom bestaat een atoom uit een positief geladen kern met eromheen de negatief geladen elektronen. De elektronen in het Bohrmodel kunnen alleen in specifieke banen bestaan. Deze banen verschillen in hoeveel energie er nodig is om het elektron er uit te halen. We noemen de banen daarom ook wel energieschillen. Zie figuur 1. De energieschillen hebben een quantumgetal n. De kern heeft een lading van +Ze met Z het aantal protonen in de kern en e de elementaire lading. 
 
->Opdracht 1: Energie en golflengte 
+>#### Opdracht 1: Energie en golflengte 
 >Als een elektron uit een hogere schil terug valt in een lagere schil verliest het elektron energie. 
 <br>
 >a) Welke golflengte (in nm) heeft licht met een energie van 4.9 eV? <br>
@@ -67,12 +67,12 @@ met $F_{elek}$ de kracht op het elektron, $q$ de lading van het elektron, $E_{el
 Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: $F = ma$. Vervolgens komen de versnelde elektronen aan bij de anode $A$ en wordt er een stroom gemeten. De tegenspanning $U_GA$ helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
 
 
->Opdracht 2: Energie en golflengte 
+>#### Opdracht 2: Energie en botsen 
 >Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf aan door de spanning U en UGA in te stellen. 
 > <br>
 >a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het rooster gaat? 
 > <br>
->b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen C en G bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = F\cdots = q\frac{V}{L}s (2)$ met E de energie van het elektron en W = F s de arbeid verricht door het elektrisch veld. 
+>b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen $C$ en $G$ bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = Fs = q\frac{V}{L}s (2)$ met $E$ de energie van het elektron en $W = Fs$ de arbeid verricht door het elektrisch veld. 
 
 ## Uitvoering 
 Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de opstelling werkt en daarna een aantal proefmetingen zal uitvoeren. Op deze manier begrijp je goed hoe de opstelling werkt. Daarna ga je eigenlijke meting uitvoeren.
@@ -89,20 +89,22 @@ De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een o
  figuur 3: De Franck-Hertz opstelling
 ```
 
-Opdracht 3: Klaar zetten 
-De oven wordt straks heet en dan kun je deze lastiger verplaatsen. Zorg dus nu vast dat je goed naar binnen kunt kijken. 
-1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
-2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
-3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
-4. Zet de oscilloscoop aan met de knop bovenop. 
-5.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as. Dit doe je met het knopje Display en dan op het scherm, selecteer met de knopjes net naast het scherm Format XY. 
+#### Opdracht 3: Klaar zetten 
+>De oven wordt straks heet en dan kun je deze lastiger verplaatsen. Zorg dus nu vast dat je goed naar binnen kunt kijken. 
+>1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
+>2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
+>3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
+>4. Zet de oscilloscoop aan met de knop bovenop. 
+>5.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as. Dit doe je met het knopje Display en dan op het scherm, selecteer met de knopjes net naast het scherm Format XY. 
 
-3.2 Proefmeting 
-Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervoor dat een klein druppeltje kwik wat in de vacuum buis zit verdampt. Je kunt ook al testmetingen ¨ doen voordat de oven helemaal warm is, maar je signaal zal dan iets langer zijn omdat er nog iets minder kwik in de gasfase is. 
+### Proefmeting 
+Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervoor dat een klein druppeltje kwik wat in de vacuum buis zit verdampt. 
 
-Opdracht 4: Proefmeting 
-Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bedienen. a) Zet de filamentspanning op 7 V. Zie je het filament oplichten? Het duurt tot60 seconden voordat het filament stabiel op de gewenste spanning brandt. b) Zet de tegenspanning op 1.5 V. 
-c) Zet de versnelspanning op manual met het zwarte knopje tussen de star- en eindspan ningsdraaiknopjes op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt? 
+#### Opdracht 4: Proefmeting 
+Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bedienen. 
+a) Zet de filamentspanning op 7 V. Zie je het filament oplichten? Het duurt tot60 seconden voordat het filament stabiel op de gewenste spanning brandt. 
+b) Zet de tegenspanning op 1.5 V. 
+c) Zet de versnelspanning op manual met het zwarte knopje tussen de star- en eindspanningsdraaiknopjes op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt? 
 Let op: Als je de spanning te hoog zet dan slaat de stroom door: er ontstaat een plasma. Je kunt zien als dit gebeurt is: dan licht het kwikplasma fel en helderblauw op. Zet dan de spanning weer lager en probeer dit te voorkomen. 
 d) Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. 
 e) De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV ´e´en hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. Zet deze beiden op 1 V/div. 
@@ -111,7 +113,7 @@ f) Zet nu de versnelspanning op Ramp. De power supply geeft nu heel snel acher e
 
 figuur4
 
-Opdracht 5: Optimalisatie 
+#### Opdracht 5: Optimalisatie 
 Voor het meten straks is het handig om de curve optimaal in beeld te kunnen brengen. Hieronder staan een aantal tips over het effect van bepaalde instellingen. Je bent vrij om hiermee te experimenteren en ook om nog andere instellingen te proberen. Let er wel op de je probeert om te voorkomen dat je een plasma krijgt. 
  start- en eind versnelspanning: deze kan je vrij kiezen. Wil je veel pieken en dalen achter elkaar zien, of juist maar een paar? Wil je op 0 beginnen? (Let op: dit hangt ook samen met hoe je de oscilloscoop in stelt, daarmee kan je ook ‘inzoomen’) 
  In figuur 4 a) zie je dat de curve naar het maximum gaat (vlakke lijn bovenaan). Probeer dit te voorkomen: zet de eindversnelspanning lager! Als je toch meer pieken en dalen wilt kunnen zien, verander dan een andere instelling zodat je de eindspanning wel hoger kunt zetten zonder dit maximum te bereiken. 
@@ -123,7 +125,7 @@ Deze oplossingen hebben een klein beetje een ander effect, bijvoorbeeld op hoe d
  De filamentspanning bepaald hoeveel elektronen er vrij komen. Bij een hogere fi lamentspanning meet je dus gemakkelijker meer stroom bij de anode. In figuur 4 d) is deze te hoog, en in figuur 4 e) te laag. Je wilt genoeg signaal hebben om te kunnen meten, maar niet zo veel dat je al snel bij het maximum (vlakke lijn aan de bovenkant) zit. Daarbij is een hoge filamentspanning (boven 10V) slecht voor de levensduur van het filament. 
  Met de oscilloscoop kan je de weergave van je resultaten verbeteren. Zet de Volt/Div en Position van beide kanalen zo dat je curve goed in het midden en goed geschaald is. In het menu Display kan je ook het Type en Persist nog aanpassen. 
 
-4 Onderzoeksvragen en werkplan
+## 4 Onderzoeksvragen en werkplan
 
 Na de theoretische voorbereiding en het verkennen van de opstelling kun je nu de onderzoeks vraag en een werkplan op te stellen. 
 Opdracht 6: Interpretatie 

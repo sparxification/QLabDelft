@@ -48,7 +48,7 @@ Bij een inelastische botsing wordt de kinetische energie van het elektron geabso
 
 ```{figure} ./media/frank3.png
     ---
-    width:100
+    width: 50
     name: schema
     align: center 
     ---
@@ -59,21 +59,20 @@ In figuur 2 staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C
 
 ```{math}
 :label: 1
-F_elek = q \cdot E_elek = q \cdot \frac{U}{L}
+F_{elek} = q \cdot E_{elek} = q \cdot \frac{U}{L}
 ```
 
 
-met $F_elek$ de kracht op het elektron, $q$ de lading van het elektron, $E_elek$ de elektrische veldsterkte, $U$ de aangelegde spanning in Volt, en $L$ de afstand tussen $C$ en $G$. 
+met $F_{elek}$ de kracht op het elektron, $q$ de lading van het elektron, $E_{elek}$ de elektrische veldsterkte, $U$ de aangelegde spanning in Volt, en $L$ de afstand tussen $C$ en $G$. 
 Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: $F = ma$. Vervolgens komen de versnelde elektronen aan bij de anode $A$ en wordt er een stroom gemeten. De tegenspanning $U_GA$ helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
 
 
 >Opdracht 2: Energie en golflengte 
->Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf >aan door de spanning U en UGA in te stellen. 
+>Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf aan door de spanning U en UGA in te stellen. 
 > <br>
->a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft >een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het >rooster gaat? 
+>a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het rooster gaat? 
 > <br>
->b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het >elektron zich dan nog in het elektrisch veld tussen C en G bevindt zal het weer versnellen >tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet >een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een >versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: E = 5 eV = W = F s = qVLs (2) 
->met E de energie van het elektron en W = F s de arbeid verricht door het elektrisch veld. 
+>b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen C en G bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = F\cdots = q\frac{V}{L}s (2)$ met E de energie van het elektron en W = F s de arbeid verricht door het elektrisch veld. 
 
 ## Uitvoering 
 Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de opstelling werkt en daarna een aantal proefmetingen zal uitvoeren. Op deze manier begrijp je goed hoe de opstelling werkt. Daarna ga je eigenlijke meting uitvoeren.
@@ -92,11 +91,11 @@ De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een o
 
 Opdracht 3: Klaar zetten 
 De oven wordt straks heet en dan kun je deze lastiger verplaatsen. Zorg dus nu vast dat je goed naar binnen kunt kijken. 
- Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
-Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
- Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
- Zet de oscilloscoop aan met de knop bovenop. 
- Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as. Dit doe je met het knopje Display en dan op het scherm, selecteer met de knopjes net naast het scherm Format XY. 
+1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
+2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
+3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
+4. Zet de oscilloscoop aan met de knop bovenop. 
+5.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as. Dit doe je met het knopje Display en dan op het scherm, selecteer met de knopjes net naast het scherm Format XY. 
 
 3.2 Proefmeting 
 Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervoor dat een klein druppeltje kwik wat in de vacuum buis zit verdampt. Je kunt ook al testmetingen ¨ doen voordat de oven helemaal warm is, maar je signaal zal dan iets langer zijn omdat er nog iets minder kwik in de gasfase is. 

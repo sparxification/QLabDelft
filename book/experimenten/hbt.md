@@ -1,5 +1,5 @@
-# Hanbury - Brown and Twiss (HBT) 
-practicumhandleiding
+# Hanbury - Brown and Twiss 
+(HBT) - practicumhandleiding
 
 ## Inleiding
 

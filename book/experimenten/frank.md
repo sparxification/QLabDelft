@@ -1,9 +1,8 @@
 # Franck-Hertz experiment
 practicumhandleiding  
-*Deze handleiding is grotendeels overgenomen van de Universiteit van Utrecht*
+*Deze handleiding is grotendeels overgenomen van de Universiteit van Utrecht.*
 
 ```{figure} ./media/frank1.png
-    :width: 5
     :name: opstelling Frank
     :align: center 
 

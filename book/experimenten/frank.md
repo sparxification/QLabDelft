@@ -20,12 +20,12 @@ Het mechanisme wat aan dit experiment ten grondslag ligt wordt nog steeds gebrui
 Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd. 
 
 ```{figure} ./media/frank2.svg
-    ---
-    width:50
-    name: bohrmodel
-    align: right 
-    ---
-figuur 1
+   ---
+   width:50
+   name: bohrmodel
+   align: right 
+   ---
+ figuur 1
 ```
 
 ### Bohrmodel 
@@ -33,7 +33,8 @@ In het Bohrmodel van een atoom bestaat een atoom uit een positief geladen kern m
 
 >Opdracht 1: Energie en golflengte 
 >Als een elektron uit een hogere schil terug valt in een lagere schil verliest het elektron energie. 
->a) Welke golflengte (in nm) heeft licht met een energie van 4.9 eV? 
+<br>
+>a) Welke golflengte (in nm) heeft licht met een energie van 4.9 eV? <br>
 >b) Verwacht je deze kleur te kunnen zien? Zo ja, welke kleur is het? 
 
 In dit experiment ga je bewijzen dat elektronen in kwikatomen alleen bij specifieke energie voorkomen. 
@@ -51,24 +52,28 @@ Bij een inelastische botsing wordt de kinetische energie van het elektron geabso
     name: schema
     align: center 
     ---
-figuur 2: Het schakelschema
+ figuur 2: Het schakelschema
 ```
 
-In figuur 2 staat de stroomkring van de Franck-Hertz opstelling getekend. Bij C, de kathode, komen elektronen vrij door genoeg spanning UF op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) G met een versnelspanning U. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
+In figuur 2 staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
 
 ```{math}
-label: 1
-F\sub{elek} = qEelek Felek = qVL
+:label: 1
+F_elek = q \cdot E_elek = q \cdot \frac{U}{L}
 ```
 
 
-met Felek de kracht op het elektron, q de lading van het elektron, Eelek de elektrische veldsterkte, V de aangelegde spanning op U, en L de afstand tussen C en G. 
-Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: F = ma. Vervolgens komen de versnelde elektronen aan bij de anode A en wordt er een stroom gemeten. De tegenspanning UGA helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
-Opdracht 2: Energie en golflengte 
-Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf aan door de spanning U en UGA in te stellen. 
-a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het rooster gaat? 
-b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen C en G bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: E = 5 eV = W = F s = qVLs (2) 
-met E de energie van het elektron en W = F s de arbeid verricht door het elektrisch veld. 
+met $F_elek$ de kracht op het elektron, $q$ de lading van het elektron, $E_elek$ de elektrische veldsterkte, $U$ de aangelegde spanning in Volt, en $L$ de afstand tussen $C$ en $G$. 
+Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: $F = ma$. Vervolgens komen de versnelde elektronen aan bij de anode $A$ en wordt er een stroom gemeten. De tegenspanning $U_GA$ helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
+
+
+>Opdracht 2: Energie en golflengte 
+>Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf >aan door de spanning U en UGA in te stellen. 
+> <br>
+>a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft >een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het >rooster gaat? 
+> <br>
+>b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het >elektron zich dan nog in het elektrisch veld tussen C en G bevindt zal het weer versnellen >tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet >een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een >versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: E = 5 eV = W = F s = qVLs (2) 
+>met E de energie van het elektron en W = F s de arbeid verricht door het elektrisch veld. 
 
 ## Uitvoering 
 Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de opstelling werkt en daarna een aantal proefmetingen zal uitvoeren. Op deze manier begrijp je goed hoe de opstelling werkt. Daarna ga je eigenlijke meting uitvoeren.
@@ -82,7 +87,7 @@ De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een o
     name: opstelling
     align: center 
     ---
-figuur 3: De Franck-Hertz opstelling
+ figuur 3: De Franck-Hertz opstelling
 ```
 
 Opdracht 3: Klaar zetten 

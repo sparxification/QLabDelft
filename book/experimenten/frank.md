@@ -3,11 +3,10 @@ practicumhandleiding
 *Deze handleiding is grotendeels overgenomen van de Universiteit van Utrecht*
 
 ```{figure} ./media/frank1.png
-    ---
-    width:5
-    name: opstelling Frank
-    align: center 
-    ---
+    :width: 5
+    :name: opstelling Frank
+    :align: center 
+
 Foto van de Franck-Hertz opstelling (van 3Bscientific)
 ```
 
@@ -89,7 +88,7 @@ De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een o
  figuur 3: De Franck-Hertz opstelling
 ```
 
-#### Opdracht 3: Klaar zetten 
+>#### Opdracht 3: Klaar zetten 
 >De oven wordt straks heet en dan kun je deze lastiger verplaatsen. Zorg dus nu vast dat je goed naar binnen kunt kijken. 
 >1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
 >2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 

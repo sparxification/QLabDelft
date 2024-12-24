@@ -6,7 +6,7 @@ practicumhandleiding
     :name: opstelling Frank
     :align: center 
 
-Foto van de Franck-Hertz opstelling (van 3Bscientific)
+Foto van de Franck-Hertz opstelling (van 3Bscientific).
 ```
 
 ## Inleiding
@@ -18,16 +18,14 @@ Het mechanisme wat aan dit experiment ten grondslag ligt wordt nog steeds gebrui
 Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd. 
 
 ```{figure} ./media/frank2.svg
-   ---
-   width:50
-   name: bohrmodel
-   align: right 
-   ---
- figuur 1
+   :width:100
+   :name: bohrmodel
+   :align: right 
+ Bohrmodel
 ```
 
 ### Bohrmodel 
-In het Bohrmodel van een atoom bestaat een atoom uit een positief geladen kern met eromheen de negatief geladen elektronen. De elektronen in het Bohrmodel kunnen alleen in specifieke banen bestaan. Deze banen verschillen in hoeveel energie er nodig is om het elektron er uit te halen. We noemen de banen daarom ook wel energieschillen. Zie figuur 1. De energieschillen hebben een quantumgetal n. De kern heeft een lading van +Ze met Z het aantal protonen in de kern en e de elementaire lading. 
+In het Bohrmodel van een atoom bestaat een atoom uit een positief geladen kern met eromheen de negatief geladen elektronen. De elektronen in het Bohrmodel kunnen alleen in specifieke banen bestaan. Deze banen verschillen in hoeveel energie er nodig is om het elektron er uit te halen. We noemen de banen daarom ook wel energieschillen. Zie figuur. De energieschillen hebben een quantumgetal n. De kern heeft een lading van +Ze met Z het aantal protonen in de kern en e de elementaire lading. 
 
 >#### Opdracht 1: Energie en golflengte 
 >Als een elektron uit een hogere schil terug valt in een lagere schil verliest het elektron energie. 
@@ -45,15 +43,13 @@ Bij een elastische botsing veranderen de snelheden van het atoom en het elektron
 Bij een inelastische botsing wordt de kinetische energie van het elektron geabsorbeerd door het atoom, waardoor het atoom in een aangeslagen toestand komt. De aangeslagen toestand betekent dat een elektron van het atoom zelf in een hogere baan terecht is gekomen. In dit experiment zul je zien dat alleen elektronen met een bepaalde energie een inelastische botsing kunnen hebben met kwikatomen. Dit is een gevolg van de elektron-schillen van atomen en is niet te verklaren met klassieke mechanica, maar wel met quantummechanica! 
 
 ```{figure} ./media/frank3.png
-    ---
-    width: 50
-    name: schema
-    align: center 
-    ---
- figuur 2: Het schakelschema
+    :width: 50
+    :name: schema
+    :align: center 
+ Het schakelschema
 ```
 
-In figuur 2 staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
+In de figuur staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
 
 ```{math}
 :label: 1
@@ -79,12 +75,10 @@ Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de 
 De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een oscilloscoop, zie figuur 3. Bij de theorie heb je al een schematische tekening van de stroomkring in de opstelling gezien. Deze staat ook op de oven getekend. De draden zijn al goed aangesloten op de spanningsbron en de oscilloscoop. 
 
 ```{figure} ./media/frank4.png
-    ---
-    width:100
-    name: opstelling
-    align: center 
-    ---
- figuur 3: De Franck-Hertz opstelling
+    :width:100
+    :name: opstelling
+    :align: center 
+De Franck-Hertz opstelling
 ```
 
 >#### Opdracht 3: Klaar zetten 

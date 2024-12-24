@@ -20,7 +20,7 @@ Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd.
 ```{figure} ./media/frank2.svg
    :width:100
    :name: bohrmodel
-   :align: right 
+   :align: center
  Bohrmodel
 ```
 
@@ -75,7 +75,6 @@ Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de 
 De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een oscilloscoop, zie figuur 3. Bij de theorie heb je al een schematische tekening van de stroomkring in de opstelling gezien. Deze staat ook op de oven getekend. De draden zijn al goed aangesloten op de spanningsbron en de oscilloscoop. 
 
 ```{figure} ./media/frank4.png
-    :width:100
     :name: opstelling
     :align: center 
 De Franck-Hertz opstelling

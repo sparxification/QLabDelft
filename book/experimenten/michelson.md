@@ -303,25 +303,18 @@ detector bereikt en dus blijkbaar het andere pad gekozen.
 
 Oorzaak van (2) kan zijn dat:
 
-1.  1.  Het foton is via de spiegel en halfdoorlatende spiegel weer
-        terug in de laser beland (1 op 4), òf:
-
-    2.  (Er is een nepbom die geen interactie heeft (met de golffunctie)
-        waardoor er (destructieve) interferentie blijft bestaan. )
+1.  Het foton is via de spiegel en halfdoorlatende spiegel weer terug in de laser beland (1 op 4), òf:
 
 2.  Een echte bom is afgegaan en dat gaf een explosie, maar het foton
     bereikte de detector niet. (2 op 4). Dit kun je testen door je hand
     in één van de paden te houden.
 
 In 50% van de gevallen zal de bom afgaan, in 25% van de gevallen is het
-onbeslist en dus is het in 25% van de gevallen mogelijk om een bom te
+onbeslist en in 25% van de gevallen mogelijk om een bom te
 ontdekken, zonder dat deze afgaat.
 
-<span class="mark">(Wellicht nepbom verhaal eruit verwijderen, maakt het
-ingewikkelder en wat voegt het toe?):</span>
-
 Door de onbesliste gevallen (de 25% in de laser teruggekaatste fotonen)
-opnieuw te testen is het mogelijk om een hoger percentage te behalen van
+**opnieuw te testen** is het mogelijk om een hoger percentage te behalen van
 ontdekte bommen, zonder dat ze af zijn gegaan.
 
 Hoe groot is dat percentage?

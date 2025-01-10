@@ -127,9 +127,10 @@ Bij de ene is het dus een nulde orde maximum door constructieve
 interferentie, bij de ander een minimum, door destructieve
 interferentie.
 
-Maar waarom is dat verschil er?
-
-**Fase verschuiving verhaal**
+Maar waarom is dat verschil er? Door faseverschuiving. 
+Faseverschuiving is een verschil in de positie van de golftoppen en dalen van twee golven. Dit verschil kan ontstaan door verschillen in de lengte van de afgelegde weg, de weglengte. 
+Wanneer dit verschil één $\lambda$ of een veelvoud hiervan is, dan treedt constructieve interferentie op (de golftoppen overlappen). Dit is zichtbaar als een maximale intensiteit van het waargenomen licht in het nulde orde maximum. 
+Is het weglengte verschil $\frac{\lambda}{2}$ of een veelvoud hiervan, dan treedt destructieve interferentie op (de golfbergen overlappen met de golfdalen). Dit is zichtbaar als een minimale intensiteit (donker).
 
 # Experiment 2: Pad informatie
 
@@ -137,10 +138,7 @@ In de opstelling zijn 3 (lineaire) polarisatoren opgenomen. Zie ook
 figuur 2 voor een afbeelding van een polarisator. De polarisator zorgt
 ervoor dat het licht in één richting wordt *gepolariseerd*. In Figuur 3
 is de opbouw van een lichtgolf te zien. Alleen lichtgolven met een
-``` math
-\overrightarrow{E}
-```
-*-component* in dezelfde richting als de polarisator worden doorgelaten.
+$\overrightarrow{E}$*-component* in dezelfde richting als de polarisator worden doorgelaten.
 Kun je nu uitleggen waarom er dus maar 50% wordt doorgelaten?
 
 <img src="./media/mimage3.png"

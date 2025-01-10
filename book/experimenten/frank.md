@@ -43,7 +43,6 @@ Bij een elastische botsing veranderen de snelheden van het atoom en het elektron
 Bij een inelastische botsing wordt de kinetische energie van het elektron geabsorbeerd door het atoom, waardoor het atoom in een aangeslagen toestand komt. De aangeslagen toestand betekent dat een elektron van het atoom zelf in een hogere baan terecht is gekomen. In dit experiment zul je zien dat alleen elektronen met een bepaalde energie een inelastische botsing kunnen hebben met kwikatomen. Dit is een gevolg van de elektron-schillen van atomen en is niet te verklaren met klassieke mechanica, maar wel met quantummechanica! 
 
 ```{figure} ./media/frank3.png
-    :width: 50
     :name: schema
     :align: center 
  Het schakelschema
@@ -93,43 +92,48 @@ Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervo
 
 #### Opdracht 4: Proefmeting 
 Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bedienen. 
-a) Zet de filamentspanning op 7 V. Zie je het filament oplichten? Het duurt tot60 seconden voordat het filament stabiel op de gewenste spanning brandt. 
-b) Zet de tegenspanning op 1.5 V. 
-c) Zet de versnelspanning op manual met het zwarte knopje tussen de star- en eindspanningsdraaiknopjes op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt? 
+1. Zet de filamentspanning op 7 V. Zie je het filament oplichten? Het duurt tot60 seconden voordat het filament stabiel op de gewenste spanning brandt. 
+2. Zet de tegenspanning op 1.5 V. 
+3. Zet de versnelspanning op manual met het zwarte knopje tussen de star- en eindspanningsdraaiknopjes op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt? 
 Let op: Als je de spanning te hoog zet dan slaat de stroom door: er ontstaat een plasma. Je kunt zien als dit gebeurt is: dan licht het kwikplasma fel en helderblauw op. Zet dan de spanning weer lager en probeer dit te voorkomen. 
-d) Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. 
-e) De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV ´e´en hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. Zet deze beiden op 1 V/div. 
-f) Zet nu de versnelspanning op Ramp. De power supply geeft nu heel snel acher elkaar een spanning van de ingestelde start- tot de ingestelde eindspanning. Als het goed is zie je op het scherm van de oscilloscoop nu een curve die lijkt op figuur 4. 
+4. Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. 
+5. De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV ´e´en hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. Zet deze beiden op 1 V/div. 
+6. Zet nu de versnelspanning op Ramp. De power supply geeft nu heel snel acher elkaar een spanning van de ingestelde start- tot de ingestelde eindspanning. Als het goed is zie je op het scherm van de oscilloscoop nu een curve die lijkt op figuur 4. 
 
 
 figuur4
 
 #### Opdracht 5: Optimalisatie 
 Voor het meten straks is het handig om de curve optimaal in beeld te kunnen brengen. Hieronder staan een aantal tips over het effect van bepaalde instellingen. Je bent vrij om hiermee te experimenteren en ook om nog andere instellingen te proberen. Let er wel op de je probeert om te voorkomen dat je een plasma krijgt. 
- start- en eind versnelspanning: deze kan je vrij kiezen. Wil je veel pieken en dalen achter elkaar zien, of juist maar een paar? Wil je op 0 beginnen? (Let op: dit hangt ook samen met hoe je de oscilloscoop in stelt, daarmee kan je ook ‘inzoomen’) 
- In figuur 4 a) zie je dat de curve naar het maximum gaat (vlakke lijn bovenaan). Probeer dit te voorkomen: zet de eindversnelspanning lager! Als je toch meer pieken en dalen wilt kunnen zien, verander dan een andere instelling zodat je de eindspanning wel hoger kunt zetten zonder dit maximum te bereiken. 
- In figuur 4 b) en c) is de curve te steil of te vlak. Dit kan je op verschillende manieren verbeteren: 
+1. start- en eind versnelspanning: deze kan je vrij kiezen. Wil je veel pieken en dalen achter elkaar zien, of juist maar een paar? Wil je op 0 beginnen? (Let op: dit hangt ook samen met hoe je de oscilloscoop in stelt, daarmee kan je ook ‘inzoomen’) 
+2. In figuur 4 a) zie je dat de curve naar het maximum gaat (vlakke lijn bovenaan). Probeer dit te voorkomen: zet de eindversnelspanning lager! Als je toch meer pieken en dalen wilt kunnen zien, verander dan een andere instelling zodat je de eindspanning wel hoger kunt zetten zonder dit maximum te bereiken. 
+3. In figuur 4 b) en c) is de curve te steil of te vlak. Dit kan je op verschillende manieren verbeteren: 
 – Vernader de Volts/Div van kanaal 2. Dit is het herschalen van de data die je meet. 
 – Verander de tegenspanning. Hiermee verander je de meting zelf: je maakt het makkelijker of moeilijker voor elektronen om de anode te bereiken. 
 
 Deze oplossingen hebben een klein beetje een ander effect, bijvoorbeeld op hoe diep de dalen zijn. Kies zelf wat je het beste uit komt. 
- De filamentspanning bepaald hoeveel elektronen er vrij komen. Bij een hogere fi lamentspanning meet je dus gemakkelijker meer stroom bij de anode. In figuur 4 d) is deze te hoog, en in figuur 4 e) te laag. Je wilt genoeg signaal hebben om te kunnen meten, maar niet zo veel dat je al snel bij het maximum (vlakke lijn aan de bovenkant) zit. Daarbij is een hoge filamentspanning (boven 10V) slecht voor de levensduur van het filament. 
- Met de oscilloscoop kan je de weergave van je resultaten verbeteren. Zet de Volt/Div en Position van beide kanalen zo dat je curve goed in het midden en goed geschaald is. In het menu Display kan je ook het Type en Persist nog aanpassen. 
+4. De filamentspanning bepaald hoeveel elektronen er vrij komen. Bij een hogere fi lamentspanning meet je dus gemakkelijker meer stroom bij de anode. In figuur 4 d) is deze te hoog, en in figuur 4 e) te laag. Je wilt genoeg signaal hebben om te kunnen meten, maar niet zo veel dat je al snel bij het maximum (vlakke lijn aan de bovenkant) zit. Daarbij is een hoge filamentspanning (boven 10V) slecht voor de levensduur van het filament. 
+5. Met de oscilloscoop kan je de weergave van je resultaten verbeteren. Zet de Volt/Div en Position van beide kanalen zo dat je curve goed in het midden en goed geschaald is. In het menu Display kan je ook het Type en Persist nog aanpassen. 
 
 ## 4 Onderzoeksvragen en werkplan
 
 Na de theoretische voorbereiding en het verkennen van de opstelling kun je nu de onderzoeks vraag en een werkplan op te stellen. 
-Opdracht 6: Interpretatie 
-Je ziet nu dat de gemeten stroom pieken en dalen heeft bij verschillende versnelspanningen. a) Hoeveel kinetische energie heeft een elektron op een bepaalde plek tussen C en G? b) Hoe verandert de energie van een elektron wanneer dit genoeg energie heeft om een 
-kwikatoom in een aangeslagen toestand te brengen door een inelastische botsing? c) Wat gebeurt er met een kwikatoom als dit een inelastische botsing heeft met een elektron wat veel energie heeft? 
-d) Bij opdracht 2 heb je berekent hoe ver een elektron moet versnellen voordat het (weer) een bepaalde energie heeft. Als de afstand tussen C en G 1 cm is, hoe vaak kan een elektron dan botsen met een kwikatoom? 
-e) Schets de energie van een elektron wanneer het van C, via G naar A reist. Zet de energie op de y-as, en de afgelegde afstand op de x-as. Hoe verandert dit wanneer de versnelspanning hoger is? 
-f) Wat kun je zeggen over waarom er pieken en dalen zijn in de gemeten stroom bij verschillende spanningen? 
+#### Opdracht 6: Interpretatie 
+Je ziet nu dat de gemeten stroom pieken en dalen heeft bij verschillende versnelspanningen. 
+1. Hoeveel kinetische energie heeft een elektron op een bepaalde plek tussen C en G? 
+2. Hoe verandert de energie van een elektron wanneer dit genoeg energie heeft om een 
+kwikatoom in een aangeslagen toestand te brengen door een inelastische botsing? 
+3. Wat gebeurt er met een kwikatoom als dit een inelastische botsing heeft met een elektron wat veel energie heeft? 
+4. Bij opdracht 2 heb je berekent hoe ver een elektron moet versnellen voordat het (weer) een bepaalde energie heeft. Als de afstand tussen C en G 1 cm is, hoe vaak kan een elektron dan botsen met een kwikatoom? 
+5. Schets de energie van een elektron wanneer het van C, via G naar A reist. Zet de energie op de y-as, en de afgelegde afstand op de x-as. Hoe verandert dit wanneer de versnelspanning hoger is? 
+6. Wat kun je zeggen over waarom er pieken en dalen zijn in de gemeten stroom bij verschillende spanningen? 
 
-g) Wat betekent de afstand tussen de pieken (of de afstand tussen de dalen)? Verwacht je dat deze afhankelijk is van ´e´en van je instellingen? 
-Opdracht 7: Onderzoeksvragen 
+7. Wat betekent de afstand tussen de pieken (of de afstand tussen de dalen)? Verwacht je dat deze afhankelijk is van ´e´en van je instellingen? 
+
+#### Opdracht 7: Onderzoeksvragen 
 Formuleer de onderzoeksvraag die je met deze opstelling wilt beantwoorden. Gebruik hiervoor de kennis die je hebt opgedaan in de voorbereiding. Je moet de onderzoeksvraag kunnen beantwoorden met deze opstelling. Stel voor de onderzoeksvraag een hypothese op. De hypothese is wat je verwacht dat het antwoord zal zijn op de onderzoeksvraag. 
-Opdracht 8: Werkplan 
+
+##### Opdracht 8: Werkplan 
 Stel nu het werkplan op waarin in ieder geval de volgende punten behandeld worden:  De onderzoeksvraag en hypothese. 
  De grootheden die gevarieerd worden. 
  De grootheden die gemeten worden en hoe deze metingen gedaan worden.  Het aantal metingen. 

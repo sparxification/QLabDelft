@@ -75,7 +75,7 @@ meten.
 
 **Opdracht**
 
-Schrijf deze formule als R<sub>1</sub> = ...*
+Schrijf deze formule als R<sub>1</sub> = ...
 
 
 *De weerstand is uit te drukken in fundamentele natuurconstanten:*
@@ -190,9 +190,9 @@ style="width:3.69934in;height:2.16667in" />
 
 5.  Of zo: Hier zie je met een klein beetje andere instellingen al wat
     trapjes ontstaan in de zijkanten (flanken) van de gele
-    blokgolf.<img src="./media/cimage5.png"
-    style="width:3.80605in;height:2.22917in" /><img src="./media/cimage5.png"
-    style="width:3.80605in;height:2.22917in" />
+    blokgolf.
+    <br>
+    <img src="./media/cimage5.png" style="width:3.80605in;height:2.22917in" />
 
 6.  Het is de bedoeling dat we gaan inzoom op de rechterflank van de
     gele blokgolf. Hierbij is het belangrijk dat de Triggerfunctie goed

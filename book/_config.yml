@@ -6,7 +6,7 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon : "figures/TB_favicon.ico"
+  favicon : "figures/Qlabslogo.ico"
   baseurl :  "https://sparxification.github.io/QLabDelft" #Replace this with your own URL
 
 sphinx:

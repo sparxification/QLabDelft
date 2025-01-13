@@ -1,6 +1,6 @@
 # Franck-Hertz experiment
 practicumhandleiding  
-*Deze handleiding is grotendeels overgenomen van de [Universiteit van Utrecht](https://nspracticum.science.uu.nl/Outreach/UP/Franck-Hertz/handleiding_Franck-Hertz.pdf).*
+*Deze handleiding is deels overgenomen van de [Universiteit van Utrecht](https://nspracticum.science.uu.nl/Outreach/UP/Franck-Hertz/handleiding_Franck-Hertz.pdf).*
 
 ```{figure} ./media/franck/frank1.jpg
     :name: opstelling Frank
@@ -42,10 +42,10 @@ Elektronen kunnen ook een elastische of inelastische botsingen met atomen hebben
 Bij een elastische botsing veranderen de snelheden van het atoom en het elektron. Omdat het atoom zo veel zwaarder is dan een elektron zal het atoom nauwelijks van richting of snelheid veranderen na een elastische botsing. 
 Bij een inelastische botsing wordt de kinetische energie van het elektron geabsorbeerd door het atoom, waardoor het atoom in een aangeslagen toestand komt. De aangeslagen toestand betekent dat een elektron van het atoom zelf in een hogere baan terecht is gekomen. In dit experiment zul je zien dat alleen elektronen met een bepaalde energie een inelastische botsing kunnen hebben met kwikatomen. Dit is een gevolg van de elektron-schillen van atomen en is niet te verklaren met klassieke mechanica, maar wel met quantummechanica! 
 
-```{figure} ./media/franck/frank3.jpg
+```{figure} ./media/franck/frank3-edit.png
     :name: schema
     :align: center 
- Het schakelschema (bron: https://physics.unimelb.edu.au/lecture-demonstrations/modern-physics/na-19-franck-hertz-experiment)
+ Het schakelschema (aangepast, van bron: https://physics.unimelb.edu.au/lecture-demonstrations/modern-physics/na-19-franck-hertz-experiment)
 ```
 
 In de figuur staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 

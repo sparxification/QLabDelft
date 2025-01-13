@@ -1,12 +1,12 @@
 # Franck-Hertz experiment
 practicumhandleiding  
-*Deze handleiding is grotendeels overgenomen van de Universiteit van Utrecht.*
+*Deze handleiding is grotendeels overgenomen van de [Universiteit van Utrecht](https://nspracticum.science.uu.nl/Outreach/UP/Franck-Hertz/handleiding_Franck-Hertz.pdf).*
 
-```{figure} ./media/frank1.png
+```{figure} ./media/franck/frank1.jpg
     :name: opstelling Frank
     :align: center 
 
-Foto van de Franck-Hertz opstelling (van 3Bscientific).
+Foto van de Franck-Hertz opstelling.
 ```
 
 ## Inleiding
@@ -17,11 +17,11 @@ Het mechanisme wat aan dit experiment ten grondslag ligt wordt nog steeds gebrui
 ## Theorie
 Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd. 
 
-```{figure} ./media/frank2.svg
+```{figure} ./media/franck/frank2.svg
    :width:100
    :name: bohrmodel
    :align: center
- Bohrmodel
+ Bohrmodel (bron: JabberWok uit en.wikipedia.org (CC))
 ```
 
 ### Bohrmodel 
@@ -42,10 +42,10 @@ Elektronen kunnen ook een elastische of inelastische botsingen met atomen hebben
 Bij een elastische botsing veranderen de snelheden van het atoom en het elektron. Omdat het atoom zo veel zwaarder is dan een elektron zal het atoom nauwelijks van richting of snelheid veranderen na een elastische botsing. 
 Bij een inelastische botsing wordt de kinetische energie van het elektron geabsorbeerd door het atoom, waardoor het atoom in een aangeslagen toestand komt. De aangeslagen toestand betekent dat een elektron van het atoom zelf in een hogere baan terecht is gekomen. In dit experiment zul je zien dat alleen elektronen met een bepaalde energie een inelastische botsing kunnen hebben met kwikatomen. Dit is een gevolg van de elektron-schillen van atomen en is niet te verklaren met klassieke mechanica, maar wel met quantummechanica! 
 
-```{figure} ./media/frank3.png
+```{figure} ./media/franck/frank3.jpg
     :name: schema
     :align: center 
- Het schakelschema
+ Het schakelschema (bron: https://physics.unimelb.edu.au/lecture-demonstrations/modern-physics/na-19-franck-hertz-experiment)
 ```
 
 In de figuur staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
@@ -149,8 +149,7 @@ Afhankelijk van wat je docent van je verwacht rapporteer je met een schriftelijk
  Een beschrijving en een uitleg van de werking van de 
 
 ## extra theoretische uitleg
-bron: https://ilg.physics.ucsb.edu/Courses/RemoteLabs/?linkfile=FH_Remote#:~:text=Video%201-,Theory,the%20anode%20and%20the%20cathode.
-
+bron: [UCSB Phyics Remote Labs](https://ilg.physics.ucsb.edu/Courses/RemoteLabs/?linkfile=FH_Remote#:~:text=Video%201-,Theory,the%20anode%20and%20the%20cathode). 
 
 ### Het Franck-Hertz-experiment: uitleg en interpretatie
 
@@ -185,3 +184,10 @@ Een extra complicatie is dat het niet direct mogelijk is om de kinetische energi
 
 ### Conclusie
 Het Franck-Hertz-experiment laat zien dat kwikatomen energie absorberen in discrete stappen, wat een direct bewijs is van de kwantummechanische theorie. Hoewel de gemeten waarde van \(V_1\) vaak iets hoger is dan de theoretische waarde (bijvoorbeeld **4,96 eV** in plaats van **4,66 eV**), ondersteunt het experiment duidelijk de kwantisatie van energieniveaus.
+
+### Video uitleg 
+<div style="display: flex; justify-content: center;">
+<div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jckgt5X9p60?si=8oqSXR1DZ1IqeKvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>

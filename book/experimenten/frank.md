@@ -84,22 +84,23 @@ De Franck-Hertz opstelling
 >1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
 >2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
 >3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
->4. Zet de oscilloscoop aan met de knop bovenop. 
->5.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as. Dit doe je met het knopje Display en dan op het scherm, selecteer met de knopjes net naast het scherm Format XY. 
+>4. Zet de power supply (grijs blauwe kast) met de knop achterop aan. Opstarten kan even duren.
+>5. Zet de oscilloscoop aan. 
+>6.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as (X-Y mode). Waarschijnlijk is dit al gebeurd. Eventueel doe je dit met het knopje Main en vervolgens op het scherm, selecteer met de knopjes net naast het scherm Time Base XY.
 
 ### Proefmeting 
 Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervoor dat een klein druppeltje kwik wat in de vacuum buis zit verdampt. 
 
 #### Opdracht 4: Proefmeting 
 Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bedienen. 
-1. Zet de filamentspanning op 7 V. Zie je het filament oplichten? Het duurt tot60 seconden voordat het filament stabiel op de gewenste spanning brandt. 
-2. Zet de tegenspanning op 1.5 V. 
-3. Zet de versnelspanning op manual met het zwarte knopje tussen de star- en eindspanningsdraaiknopjes op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt? 
+1. Zet de filamentspanning op 6,0V tot 6,5 V. Zie je het filament oplichten (oranje)? Het duurt tot 60 seconden voordat het filament stabiel op de gewenste spanning brandt. 
+2. Zet de tegenspanning (de uiterst rechtse knop) op 1.5 V. 
+3. Zet de versnelspanning op manual met het zwarte knopje tussen de start- en eindspanningsdraaiknopjes (acceleration) op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt (het blauwe licht bovenin de buis)? 
 Let op: Als je de spanning te hoog zet dan slaat de stroom door: er ontstaat een plasma. Je kunt zien als dit gebeurt is: dan licht het kwikplasma fel en helderblauw op. Zet dan de spanning weer lager en probeer dit te voorkomen. 
-4. Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. 
-5. De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV ´e´en hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. Zet deze beiden op 1 V/div. 
-6. Zet nu de versnelspanning op Ramp. De power supply geeft nu heel snel acher elkaar een spanning van de ingestelde start- tot de ingestelde eindspanning. Als het goed is zie je op het scherm van de oscilloscoop nu een curve die lijkt op figuur 4. 
-
+4. Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. (vaak 30V).
+5. De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV ´e´en hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. (De grote draaiknoppen onder vertical). Zet deze beiden op 1 V/div. 
+6. Zet nu de versnelspanning op Ramp (Weer het zwarte knopje bij accelaration op de power supply). De power supply geeft nu heel snel achter elkaar een spanning van de ingestelde start- tot de ingestelde eindspanning. Als het goed is zie je op het scherm van de oscilloscoop nu een curve die lijkt op figuur 4. 
+  
 
 figuur4
 
@@ -112,7 +113,7 @@ Voor het meten straks is het handig om de curve optimaal in beeld te kunnen bren
 – Verander de tegenspanning. Hiermee verander je de meting zelf: je maakt het makkelijker of moeilijker voor elektronen om de anode te bereiken. 
 
 Deze oplossingen hebben een klein beetje een ander effect, bijvoorbeeld op hoe diep de dalen zijn. Kies zelf wat je het beste uit komt. 
-4. De filamentspanning bepaald hoeveel elektronen er vrij komen. Bij een hogere fi lamentspanning meet je dus gemakkelijker meer stroom bij de anode. In figuur 4 d) is deze te hoog, en in figuur 4 e) te laag. Je wilt genoeg signaal hebben om te kunnen meten, maar niet zo veel dat je al snel bij het maximum (vlakke lijn aan de bovenkant) zit. Daarbij is een hoge filamentspanning (boven 10V) slecht voor de levensduur van het filament. 
+4. De filamentspanning bepaald hoeveel elektronen er vrij komen. Bij een hogere filamentspanning meet je dus gemakkelijker meer stroom bij de anode. In figuur 4 d) is deze te hoog, en in figuur 4 e) te laag. Je wilt genoeg signaal hebben om te kunnen meten, maar niet zo veel dat je al snel bij het maximum (vlakke lijn aan de bovenkant) zit. Daarbij is een hoge filamentspanning (boven 10V) slecht voor de levensduur van het filament. 
 5. Met de oscilloscoop kan je de weergave van je resultaten verbeteren. Zet de Volt/Div en Position van beide kanalen zo dat je curve goed in het midden en goed geschaald is. In het menu Display kan je ook het Type en Persist nog aanpassen. 
 
 ## 4 Onderzoeksvragen en werkplan
@@ -146,3 +147,41 @@ Zoek met behulp van de meetopstelling volgens je werkplan een antwoord op de ond
 Afhankelijk van wat je docent van je verwacht rapporteer je met een schriftelijk verslag of een presentatie over het onderzoek. Zorg ervoor dat in dit verslag of deze presentatie de volgende onderdelen duidelijk naar voren komen: 
  De onderzoeksvraag en hypothese. 
  Een beschrijving en een uitleg van de werking van de 
+
+## extra theoretische uitleg
+bron: https://ilg.physics.ucsb.edu/Courses/RemoteLabs/?linkfile=FH_Remote#:~:text=Video%201-,Theory,the%20anode%20and%20the%20cathode.
+
+
+### Het Franck-Hertz-experiment: uitleg en interpretatie
+
+Het Franck-Hertz-experiment genereert vrije elektronen door een kathode te verhitten in een vacuümbuis. Deze elektronen worden versneld richting een anode door een spanningsverschil (\(V_a\)) tussen de kathode en anode. Terwijl de elektronen bewegen, krijgen ze kinetische energie \(eV_a\), tenzij ze onderweg botsen met een ander deeltje en een inelastische botsing ondergaan.
+
+Hoewel de buis geëvacueerd is, is deze niet volledig leeg. Er bevindt zich een kleine hoeveelheid kwikdamp in de buis. Kwik is vloeibaar bij kamertemperatuur, maar door de buis te verhitten wordt een lage druk gas van kwikatomen gevormd tussen de kathode en anode. Bewegende elektronen kunnen botsen met deze kwikatomen en kinetische energie verliezen.
+
+#### Elastische versus inelastische botsingen
+- **Elastische botsingen:** Hierbij verandert de kinetische energie van het elektron nauwelijks, omdat een kwikatoom veel zwaarder is dan een elektron.
+- **Inelastische botsingen:** Hierbij verliezen elektronen een specifiek hoeveelheid energie, gelijk aan het verschil tussen energieniveaus van het kwikatoom.
+
+#### Energieovergangen in kwik
+Kwikatomen kunnen alleen discrete hoeveelheden energie absorberen, zoals de eerste excitatie-energie van **4,66 eV** (het energieverschil tussen de grondtoestand \(n=1\) en de eerste aangeslagen toestand \(n=2\)). Dit betekent dat elektronen alleen energie verliezen als hun kinetische energie groter is dan of gelijk is aan deze waarde. Dit discrete gedrag is een fundamenteel kenmerk van kwantummechanica.
+
+### Hoe werkt het experiment?
+Door de spanning \(V_a\) geleidelijk te verhogen, meet je het aantal elektronen dat de anode bereikt. Zodra \(eV_a = 4,66 \, \text{eV}\), hebben de elektronen voldoende energie om een kwikatoom te exciteren en verliezen ze kinetische energie. Hierdoor ontstaat een daling in de stroom naar de anode. Deze spanning (\(V_1\)) wordt de eerste excitatiespanning genoemd.
+
+Bij hogere spanningen kunnen elektronen meerdere inelastische botsingen ondergaan:
+- Bij \(V_a > 2V_1\) kunnen elektronen twee botsingen ondergaan.
+- Bij \(V_a > 3V_1\) zijn drie botsingen mogelijk, enzovoort.
+
+Dit leidt tot een patroon van opeenvolgende dalingen in de gemeten stroom bij spanningen van \(V_1\), \(2V_1\), \(3V_1\), enzovoort.
+
+#### Afwijkingen tussen theorie en experiment
+In het experiment worden vaak waarden van **4,9 eV** of **4,96 eV** gemeten in plaats van de theoretische waarde van **4,66 eV**. Dit kan komen door:
+1. **Systematische fouten:** Zoals kleine spanningsverschillen door contactpotentialen.
+2. **Meetomstandigheden:** Zoals druk en temperatuur van de kwikdamp.
+3. **Afgeronde waarden:** Experimentele resultaten worden vaak benaderd voor eenvoud.
+
+#### Het meten van stroom
+Een extra complicatie is dat het niet direct mogelijk is om de kinetische energie van de elektronen te meten. In plaats daarvan wordt de stroom naar een collectorelektrode gemeten. Als elektronen onderweg kinetische energie verliezen, verlaagt dit de stroom.
+
+### Conclusie
+Het Franck-Hertz-experiment laat zien dat kwikatomen energie absorberen in discrete stappen, wat een direct bewijs is van de kwantummechanische theorie. Hoewel de gemeten waarde van \(V_1\) vaak iets hoger is dan de theoretische waarde (bijvoorbeeld **4,96 eV** in plaats van **4,66 eV**), ondersteunt het experiment duidelijk de kwantisatie van energieniveaus.

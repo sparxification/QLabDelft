@@ -42,13 +42,19 @@ Elektronen kunnen ook een elastische of inelastische botsingen met atomen hebben
 Bij een elastische botsing veranderen de snelheden van het atoom en het elektron. Omdat het atoom zo veel zwaarder is dan een elektron zal het atoom nauwelijks van richting of snelheid veranderen na een elastische botsing. 
 Bij een inelastische botsing wordt de kinetische energie van het elektron geabsorbeerd door het atoom, waardoor het atoom in een aangeslagen toestand komt. De aangeslagen toestand betekent dat een elektron van het atoom zelf in een hogere baan terecht is gekomen. In dit experiment zul je zien dat alleen elektronen met een bepaalde energie een inelastische botsing kunnen hebben met kwikatomen. Dit is een gevolg van de elektron-schillen van atomen en is niet te verklaren met klassieke mechanica, maar wel met quantummechanica! 
 
+```{figure} ./media/franck/frank5.jpg
+    :name: kwik
+    :align: center 
+ De kwikbuis, de bolletjes kwik zijn zichtbaar ([bron](https://lampes-et-tubes.info/dt/dt029.php?l=) (copyleft))
+```
+
 ```{figure} ./media/franck/frank3-edit.png
     :name: schema
     :align: center 
- Het schakelschema (aangepast, van bron: https://physics.unimelb.edu.au/lecture-demonstrations/modern-physics/na-19-franck-hertz-experiment)
+ Het schakelschema (aangepast, van [bron](https://physics.unimelb.edu.au/lecture-demonstrations/modern-physics/na-19-franck-hertz-experiment))
 ```
 
-In de figuur staat de stroomkring van de Franck-Hertz opstelling getekend. Bij $C$, de kathode, komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. Deze elektronen worden versneld naar het rooster (grid) $G$ met een versnelspanning $U$. Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
+In de figuur staat de stroomkring van de Franck-Hertz opstelling getekend. In het filament (tussen $F$ en $K$), komen elektronen vrij door genoeg spanning $U_F$ op het filament te zetten. Het filament gaat dan gloeien, en elektronen uitzenden. G = Grid 1 fungeert hier als kathode $K$ ($U_K = 0 V$). Deze elektronen worden versneld met een versnelspanning $U_KA$ naar de anode $A$, die verbonden is met het het rooster (grid 2). Het elektrisch veld zorgt voor een elektrische kracht op elk elektron van: 
 
 ```{math}
 :label: 1
@@ -56,40 +62,42 @@ F_{elek} = q \cdot E_{elek} = q \cdot \frac{U}{L}
 ```
 
 
-met $F_{elek}$ de kracht op het elektron, $q$ de lading van het elektron, $E_{elek}$ de elektrische veldsterkte, $U$ de aangelegde spanning in Volt, en $L$ de afstand tussen $C$ en $G$. 
-Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: $F = ma$. Vervolgens komen de versnelde elektronen aan bij de anode $A$ en wordt er een stroom gemeten. De tegenspanning $U_GA$ helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
+met $F_{elek}$ de kracht op het elektron, $q$ de lading van het elektron, $E_{elek}$ de elektrische veldsterkte, $U$ de aangelegde spanning in Volt, en $L$ de afstand tussen $G$ en $A$. 
+Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van Newton: $F = ma$. Vervolgens komen de versnelde elektronen aan bij de emitter $E$ en wordt er een stroom gemeten. De tegenspanning $U_AE$ helpt ervoor te zorgen dat er geen elektronen per ongeluk bij de anode terecht komen, maar dat dit alleen elektronen zijn met voldoende snelheid. 
 
 
 >#### Opdracht 2: Energie en botsen 
->Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf aan door de spanning U en UGA in te stellen. 
+>Elektronen worden versneld in een elektrisch veld. Het elektrische veld leg je straks zelf aan door de spanning $U_KA$ en $U_AE$ (de tegenspanning) in te stellen. 
 > <br>
 >a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het rooster gaat? 
 > <br>
->b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen $C$ en $G$ bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = Fs = q\frac{V}{L}s (2)$ met $E$ de energie van het elektron en $W = Fs$ de arbeid verricht door het elektrisch veld. 
+>b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen $G$ en $A$ bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = Fs = q\frac{V}{L}s (2)$ met $E$ de energie van het elektron en $W = Fs$ de arbeid verricht door het elektrisch veld. 
 
 ## Uitvoering 
 Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de opstelling werkt en daarna een aantal proefmetingen zal uitvoeren. Op deze manier begrijp je goed hoe de opstelling werkt. Daarna ga je eigenlijke meting uitvoeren.
 
 ### De opstelling 
-De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een oscilloscoop, zie figuur 3. Bij de theorie heb je al een schematische tekening van de stroomkring in de opstelling gezien. Deze staat ook op de oven getekend. De draden zijn al goed aangesloten op de spanningsbron en de oscilloscoop. 
+De opstelling bestaat uit de oven, een power supply (spanningsbron) en een een oscilloscoop, zie figuur 4. Bij de theorie heb je al een schematische tekening van de stroomkring in de opstelling gezien. Deze staat ook op de oven getekend. De draden zijn al goed aangesloten op de spanningsbron en de oscilloscoop. 
 
-```{figure} ./media/frank4.png
+```{figure} ./media/franck/frank4.png
     :name: opstelling
     :align: center 
-De Franck-Hertz opstelling
+De Franck-Hertz opstelling (bron: 3Bscientific)
 ```
 
 >#### Opdracht 3: Klaar zetten 
 >De oven wordt straks heet en dan kun je deze lastiger verplaatsen. Zorg dus nu vast dat je goed naar binnen kunt kijken. 
 >1. Zet de oven zo neer dat je de voorkant, waar de draden aangesloten zijn, en het raam om naar binnen kunt kijken goed kunt zien. 
 >2. Zet de oven aan en stel te temperatuur in op 180 ◦C. Het duurt 5 tot 10 minuten voordat de temperatuur bereikt is. PAS OP: ook de buitenkant van de oven wordt heet! 
->3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signiaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
->4. Zet de power supply (grijs blauwe kast) met de knop achterop aan. Opstarten kan even duren.
+>3. Draai de volgende knopjes op de power supply helemaal naar links (naar 0): de filamentspanning, de spanning tot het eerste grid (deze wordt niet gebruikt), de start- en eind spanning voor de versnelspanning, en de tegenspanning. Het knopje rechtsonder is de sterkte van het totale signaal wat doorgestuurd wordt naar de oscilloscoop. Laat deze voor nu staan zoals die is (dus niet op 0!). 
+>4. Zet de power supply (grijs-blauwe kast) met de knop achterop aan. Opstarten kan even duren.
 >5. Zet de oscilloscoop aan. 
 >6.  Stel de oscilloscoop zo in dat signaal 1 op de x-as wordt weer gegeven en signaal 2 op de y-as (X-Y mode). Waarschijnlijk is dit al gebeurd. Eventueel doe je dit met het knopje Main en vervolgens op het scherm, selecteer met de knopjes net naast het scherm Time Base XY.
 
 ### Proefmeting 
 Wanneer de oven is opgewarmd kan je beginnen met meten. De warme oven zorgt ervoor dat een klein druppeltje kwik wat in de vacuum buis zit verdampt. 
+
+
 
 #### Opdracht 4: Proefmeting 
 Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bedienen. 
@@ -189,5 +197,14 @@ Het Franck-Hertz-experiment laat zien dat kwikatomen energie absorberen in discr
 <div style="display: flex; justify-content: center;">
 <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jckgt5X9p60?si=8oqSXR1DZ1IqeKvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<br>
+<br>
+
+<div style="display: flex; justify-content: center;">
+<div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2gaTEWn2b8?si=EBG9CI54X-Vtjsl7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>

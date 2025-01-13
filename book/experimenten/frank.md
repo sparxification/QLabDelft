@@ -27,11 +27,16 @@ Om je goed voor te bereiden op het experiment wordt eerst de theorie bestudeerd.
 ### Bohrmodel 
 In het Bohrmodel van een atoom bestaat een atoom uit een positief geladen kern met eromheen de negatief geladen elektronen. De elektronen in het Bohrmodel kunnen alleen in specifieke banen bestaan. Deze banen verschillen in hoeveel energie er nodig is om het elektron er uit te halen. We noemen de banen daarom ook wel energieschillen. Zie figuur. De energieschillen hebben een quantumgetal n. De kern heeft een lading van +Ze met Z het aantal protonen in de kern en e de elementaire lading. 
 
+
+
 >#### Opdracht 1: Energie en golflengte 
 >Als een elektron uit een hogere schil terug valt in een lagere schil verliest het elektron energie. 
 <br>
 >a) Welke golflengte (in nm) heeft licht met een energie van 4.9 eV? <br>
 >b) Verwacht je deze kleur te kunnen zien? Zo ja, welke kleur is het? 
+
+
+# Experiment 1: Franck en Hertz met kwik
 
 In dit experiment ga je bewijzen dat elektronen in kwikatomen alleen bij specifieke energie voorkomen. 
 
@@ -114,7 +119,7 @@ Met deze reeks proefmetingen leer de de oscilloscoop en de spanningsbron bediene
 Oranje gloeiend filament
 ```
 2. Zet de tegenspanning (de uiterst rechtse knop) op 1.5 V. 
-3. Zet de versnelspanning op manual met het zwarte knopje tussen de start- en eindspanningsdraaiknopjes (acceleration) op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt (het blauwe licht bovenin de buis)? 
+3. Zet de versnelspanning op manual met het zwarte knopje tussen de start- en eindspanningsdraaiknopjes (Acceleration) op de power supply. Draai nu langzaam de eindversnelspanning omhoog. Zie je een stipje bewegen op het scherm van de oscilloscoop? Tot welke spanning kun je gaan voordat je een plasma krijgt (het blauwe licht bovenin de buis)? 
 Let op: Als je de spanning te hoog zet dan slaat de stroom door: er ontstaat een plasma. Je kunt zien als dit gebeurt is: dan licht het kwikplasma fel en helderblauw op. Zet dan de spanning weer lager en probeer dit te voorkomen. 
 4. Op het scherm van de power supply zie je ook hoe veel stroom (nA) er gemeten wordt. Het maximale wat deze opstelling kan meten is 400 nA. Bij welke spanning krijg je nog net geen 400 nA (en ook nog geen plasma)? Dit is de spanning die je nu als eindsspanning wilt gebruiken. (vaak 30V).
 5. De ingestelde spanning staat op de x-as op de oscilloscoop, en de stroom die gemeten wordt bij de anode A staat op de y-as. Op het scherm van de oscilloscoop zie je hoeveel V of mV één hokje is. Deze kan je aanpassen met de draaiknopjes Volts/Div. (De grote draaiknoppen onder vertical). Zet deze beiden op 1 V/div. 
@@ -135,7 +140,7 @@ De instellingen van de power supply
 ```
 
 #### Opdracht 5: Optimalisatie
-Voor het meten straks is het handig om de curve optimaal in beeld te kunnen brengen. Als je curve er al mooi uit ziet dan kun je dit overslaan. 
+Voor het meten straks is het handig om de curve optimaal in beeld te kunnen brengen. Als je curve er al mooi uit ziet dan kun je deze opdracht verder overslaan. 
 <br>
 Hieronder staan een aantal tips over het effect van bepaalde instellingen. Je bent vrij om hiermee te experimenteren en ook om nog andere instellingen te proberen. Let er wel op de je probeert om te voorkomen dat je een plasma krijgt. 
 1. start- en eind versnelspanning: deze kan je vrij kiezen. Wil je veel pieken en dalen achter elkaar zien, of juist maar een paar? Wil je op 0 beginnen? (Let op: dit hangt ook samen met hoe je de oscilloscoop in stelt, daarmee kan je ook ‘inzoomen’). Probeer eens de start-versnelspanning aan te passen.
@@ -148,22 +153,37 @@ Hieronder staan een aantal tips over het effect van bepaalde instellingen. Je be
 Na de theoretische voorbereiding en het verkennen van de opstelling kun je nu starten met de daadwerkelijke meting. 
 
 #### Opdracht 6: Meting
+1. Sluit de multimeter aan zoals op de foto hieronder: De zwarte draad van de GND van de multimeter sluit je aan op de K (kathode) van de power supply (gewoon er bovenin prikken). De rode draad van de V-aansluiting van de multimeter sluit je aan op de A (anode) van de power supply. <br>
+Zet de multimeter met de witte knopjes onderaan op **V** en op **200**.
+
+```{figure} ./media/franck/frank9.jpg
+    :name: multimeter
+    :align: center 
+De instellingen van de multimeter
+```
+2. Zet het zwarte knopje van de Acceleration op Man. (Manual ipv Ramp) en draai de eindversnelspanning $U_Amax$ terug naar 0 Volt.
+3. Draai nu geleidelijk de eindversnelspanning $U_Amax$ omhoog en kijk naar de $I_E$ in het blauwe display van de power supply: Wanneer deze waarde voor de eerste keer een maximum bereikt heeft (Waarschijnlijk is $U_A$ dan ongeveer 11 V), dan ben je bij de eerste piek van de typische curve gekomen (I stijgt voor de piek en daalt daarna). Ga verder en zoek het het eerste minimum (dal). Noteer de bijbehorende spanning $U_A1$. Ga vervolgens naar het volgende minimum, en noteer weer de bijbehorende spanning $U_A2$. Ga zo alle minima (dalen) af. 
+4. Bereken vervolgens telkens het potentiaalverschil (het spanningsverschil) tussen de minima en noteer deze.
+5. Wat valt je op aan deze resultaten? 
+6. Met een spectroscoop kan het uitgezonden spectrum van de kwiklamp worden onderzocht. Hieruit blijkt dat er een golflengte van 254nm wordt uitgezonden. is dit in overeenstemming met je resultaten?
+7. Wat is nu de conclusie?
+
+
+# Experiment 2: Franck en Hertz met Neon
+
+In dit experiment wordt het experiment uitgevoerd met een Neon buis. 
 
 
 
 
 
 
-Je ziet nu dat de gemeten stroom pieken en dalen heeft bij verschillende versnelspanningen. 
-1. Hoeveel kinetische energie heeft een elektron op een bepaalde plek tussen C en G? 
-2. Hoe verandert de energie van een elektron wanneer dit genoeg energie heeft om een 
-kwikatoom in een aangeslagen toestand te brengen door een inelastische botsing? 
-3. Wat gebeurt er met een kwikatoom als dit een inelastische botsing heeft met een elektron wat veel energie heeft? 
-4. Bij opdracht 2 heb je berekent hoe ver een elektron moet versnellen voordat het (weer) een bepaalde energie heeft. Als de afstand tussen C en G 1 cm is, hoe vaak kan een elektron dan botsen met een kwikatoom? 
-5. Schets de energie van een elektron wanneer het van C, via G naar A reist. Zet de energie op de y-as, en de afgelegde afstand op de x-as. Hoe verandert dit wanneer de versnelspanning hoger is? 
-6. Wat kun je zeggen over waarom er pieken en dalen zijn in de gemeten stroom bij verschillende spanningen? 
 
-7. Wat betekent de afstand tussen de pieken (of de afstand tussen de dalen)? Verwacht je dat deze afhankelijk is van ´e´en van je instellingen? 
+
+
+
+
+
 
 ## extra theoretische uitleg
 bron: [UCSB Phyics Remote Labs](https://ilg.physics.ucsb.edu/Courses/RemoteLabs/?linkfile=FH_Remote#:~:text=Video%201-,Theory,the%20anode%20and%20the%20cathode). 
@@ -182,11 +202,11 @@ Hoewel de buis geëvacueerd is, is deze niet volledig leeg. Er bevindt zich een 
 Kwikatomen kunnen alleen discrete hoeveelheden energie absorberen, zoals de excitatie-energie van **4,9 eV** (het energieverschil tussen de grondtoestand en de  toestand ??? ). Dit betekent dat elektronen alleen energie verliezen als hun kinetische energie groter is dan of gelijk is aan deze waarde. Dit discrete gedrag is een fundamenteel kenmerk van kwantummechanica.
 
 ### Hoe werkt het experiment?
-Door de spanning geleidelijk te verhogen, meet je het aantal elektronen dat de anode bereikt. Zodra \(eV_a = 4,66 \, \text{eV}\), hebben de elektronen voldoende energie om een kwikatoom te exciteren en verliezen ze kinetische energie. Hierdoor ontstaat een daling in de stroom naar de anode. Deze spanning (\(V_1\)) wordt de eerste excitatiespanning genoemd.
+Door de spanning geleidelijk te verhogen, meet je het aantal elektronen dat de anode bereikt. Zodra $eV_A = 4,9 eV$, hebben de elektronen voldoende energie om een kwikatoom te exciteren en verliezen ze kinetische energie. Hierdoor ontstaat een daling in de stroom naar de anode. Deze spanning $U_1$ wordt de eerste excitatiespanning genoemd.
 
 Bij hogere spanningen kunnen elektronen meerdere inelastische botsingen ondergaan:
-- Bij $U_A > 2V_1$ kunnen elektronen twee botsingen ondergaan.
-- Bij $U_A > 3V_1$ zijn drie botsingen mogelijk, enzovoort.
+- Bij $U_A > 2U_1$ kunnen elektronen twee botsingen ondergaan.
+- Bij $U_A > 3U_1$ zijn drie botsingen mogelijk, enzovoort.
 
 Dit leidt tot een patroon van opeenvolgende dalingen in de gemeten stroom bij spanningen van $U_1, 2U_1, 3U_1, \dots$.
 

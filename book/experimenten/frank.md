@@ -71,7 +71,13 @@ Deze kracht zorgt ervoor dat het elektron versnelt volgens de tweede wet van New
 > <br>
 >a) Als er een tegenspanning UGA van 1 V wordt aangelegd, hoeveel (kinetische) energie heeft een elektron dan nodig om toch de anode te bereiken op het moment dat het elektron door het rooster gaat? 
 > <br>
->b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen $G$ en $A$ bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: $E = 5 eV = W = Fs = q\frac{V}{L}s (2)$ met $E$ de energie van het elektron en $W = Fs$ de arbeid verricht door het elektrisch veld. 
+>b) Na een botsing verliest een elektron energie, en zal dus langzamer bewegen. Als het elektron zich dan nog in het elektrisch veld tussen $G$ en $A$ bevindt zal het weer versnellen tot het of tegen het rooster aan botst, of erdoorheen gaat op weg naar de anode. Hoever moet een elektron bewegen voordat het weer 5 eV aan kinetische energie heeft bij een versnelspanning van 20 V? L is ongeveel 1 cm. Gebruik: 
+>
+> ```{math}
+> :label: 1
+> E = 5 eV = W = Fs = q\frac{V}{L}s
+> ```
+> met $E$ de energie van het elektron en $W = Fs$ de arbeid verricht door het elektrisch veld. 
 
 ## Uitvoering 
 Je gaat nu aan de slag met de opstelling waarbij je eerst zal lezen over hoe de opstelling werkt en daarna een aantal proefmetingen zal uitvoeren. Op deze manier begrijp je goed hoe de opstelling werkt. Daarna ga je eigenlijke meting uitvoeren.

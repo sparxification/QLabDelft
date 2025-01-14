@@ -18,7 +18,7 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       ...
-      announcement : "This book has been moved to: <a href='https://oit.tudelft.nl/<new repository in TUDelft-book organization>' style='color:white'>https://oit.tudelft.nl/<new repository in TUDelft-book organization> </a>."
+      announcement: "This book has been moved to: <a href='https://oit.tudelft.nl/<new repository in TUDelft-book organization>' style='color:white'>https://oit.tudelft.nl/<new repository in TUDelft-book organization> </a>."
       ...
       logo:
         text: QuantumLab TU Delft
